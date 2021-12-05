@@ -1,6 +1,6 @@
-# Bar Chart Race
+# Untitled
 
-https://observablehq.com/d/b8c5b16bec45e50f@3115
+https://observablehq.com/d/b8c5b16bec45e50f@3283
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/d/b8c5b16bec45e50f@3115.tgz?v=3
+npm install https://api.observablehq.com/d/b8c5b16bec45e50f@3283.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

@@ -1,40 +1,40 @@
+import define1 from "./e93997d5089d7165@2303.js";
+
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["category-brands.csv",new URL("./files/aec3792837253d4c6168f9bbecdf495140a5f9bb1cdb12c7c8113cec26332634a71ad29b446a1e8236e0a45732ea5d0b4e86d9d1568ff5791412f093ec06f4f1",import.meta.url)],["platform.csv",new URL("./files/a9601a0b299c28a91c478b53f86d0672557e5a343543efe1783dc6f54092762b4ded35fba6b531897c35d1e6a4561560470114229b05899f195c3133ec9221f1",import.meta.url)],["genre.csv",new URL("./files/df23611362733637d29f545e0654a8100298abfe333ba4d09f505250298d9100a52012590e95651216c70ad4081661e25048252d952aa875cf51301f28632a7d",import.meta.url)],["developer.csv",new URL("./files/85e7341105c2b433d279007c8f6f7733814a44088a0daf75817731c9ee1ae065eea4c8cd09390cfe21205bf92861b89c5a1a403c34ad9684f26f14ccec7b2072",import.meta.url)]]);
+  const fileAttachments = new Map([["genre@1.csv",new URL("./files/df23611362733637d29f545e0654a8100298abfe333ba4d09f505250298d9100a52012590e95651216c70ad4081661e25048252d952aa875cf51301f28632a7d",import.meta.url)],["developer@1.csv",new URL("./files/85e7341105c2b433d279007c8f6f7733814a44088a0daf75817731c9ee1ae065eea4c8cd09390cfe21205bf92861b89c5a1a403c34ad9684f26f14ccec7b2072",import.meta.url)],["platform@2.csv",new URL("./files/a9601a0b299c28a91c478b53f86d0672557e5a343543efe1783dc6f54092762b4ded35fba6b531897c35d1e6a4561560470114229b05899f195c3133ec9221f1",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
-  main.variable(observer()).define(["md"], function(md){return(
-md`# Bar Chart Race
-
-This chart animates the value (in $M) of the top global brands from 2000 to 2019. Color indicates sector. See [the explainer](/d/e9e3929cf7c50b45) for more. Data: [Interbrand](https://www.interbrand.com/best-brands/)`
-)});
-  main.variable(observer("data")).define("data", ["FileAttachment"], function(FileAttachment){return(
-FileAttachment("category-brands.csv").csv({typed: true})
-)});
-  main.variable(observer()).define(["htl"], function(htl){return(
-htl.html`
-<select id = "opts">
-<option value="genre">Genre</option>
-<option value="platform" selected="selected">Platform</option> 
-<option value="developer">Developer</option>
-`
-)});
-  main.variable(observer()).define(["d3"], function(d3){return(
-d3.select('#opts')
-  .on('change', function() {
-    var newData = eval(d3.select(this).property('value'));
-    
-})
-)});
-  main.variable(observer("replay")).define("replay", ["html"], function(html){return(
+  const child1 = runtime.module(define1);
+  main.import("select", child1);
+  main.variable(observer("viewof selection")).define("viewof selection", ["FileAttachment","select","html"], function(FileAttachment,select,html)
+{
+  const files = new Map([
+    FileAttachment("platform@2.csv"),
+    FileAttachment("genre@1.csv"),
+    FileAttachment("developer@1.csv")
+  ].map(f => [f.name, f]));
+  
+  const form = select({
+    description: "Select data",
+    options: Array.from(files.keys()),
+    value: "platform@2.csv"
+  });
+ 
+  return Object.defineProperty(html`<div>${form}`, 'value', {get() { return files.get(form.value) }});
+}
+);
+  main.variable(observer("selection")).define("selection", ["Generators", "viewof selection"], (G, _) => G.input(_));
+  main.variable(observer("viewof replay")).define("viewof replay", ["html"], function(html){return(
 html`<button>Replay`
 )});
+  main.variable(observer("replay")).define("replay", ["Generators", "viewof replay"], (G, _) => G.input(_));
   main.variable(observer("chart")).define("chart", ["replay","FileAttachment","d3","width","height","bars","axis","labels","ticker","keyframes","duration","x","invalidation"], async function*(replay,FileAttachment,d3,width,height,bars,axis,labels,ticker,keyframes,duration,x,invalidation)
 {
   replay;
   
-  var genredata = FileAttachment("genre.csv").csv({typed: true})
-  var developerdata = FileAttachment("developer.csv").csv({typed: true})
-  var platformdata = FileAttachment("platform.csv").csv({typed: true})
+  var genredata = FileAttachment("genre@1.csv").csv({typed: true})
+  var developerdata = FileAttachment("developer@1.csv").csv({typed: true})
+  var platformdata = FileAttachment("platform@2.csv").csv({typed: true})
   
   const svg = d3.create("svg")
       .attr("viewBox", [0, 0, width, height]);
@@ -256,6 +256,12 @@ margin.top + barSize * n + margin.bottom
 )});
   main.variable(observer("d3")).define("d3", ["require"], function(require){return(
 require("d3@6")
+)});
+  main.variable(observer()).define(["selection"], function(selection){return(
+selection.csv({typed: true})
+)});
+  main.variable(observer("data")).define("data", ["selection"], function(selection){return(
+selection.csv({typed: true})
 )});
   return main;
 }
