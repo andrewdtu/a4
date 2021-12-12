@@ -8,7 +8,31 @@
 import define from "./index.js";
 import {Runtime, Library, Inspector} from "./runtime.js";
 
-const runtime = new Runtime();
-const main = runtime.module(define, Inspector.into(document.body));
+
+
+const rendersExplorable = {
+	"viewof selection": "#selection",
+        "chart": "#chart",
+	"viewof replay": "#replay",
+	"md": "#md",
+      }
+
+const runtimeExplorable = new Runtime();
+      
+const mainExplorable = runtimeExplorable.module(define, name => {
+  const selector = rendersExplorable[name];
+  if (selector) {
+        return new Inspector(document.querySelector(selector));
+     } else {
+         return true;
+     }
+});
 
 </script>
+<div id="md"></div>
+<div id="selection"></div>
+<div id="chart"></div>
+<div id="replay"></div>
+
+</body>
+</html>

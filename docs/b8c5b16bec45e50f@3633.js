@@ -4,6 +4,9 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   const fileAttachments = new Map([["genre@1.csv",new URL("./files/df23611362733637d29f545e0654a8100298abfe333ba4d09f505250298d9100a52012590e95651216c70ad4081661e25048252d952aa875cf51301f28632a7d",import.meta.url)],["developer@1.csv",new URL("./files/85e7341105c2b433d279007c8f6f7733814a44088a0daf75817731c9ee1ae065eea4c8cd09390cfe21205bf92861b89c5a1a403c34ad9684f26f14ccec7b2072",import.meta.url)],["platform@2.csv",new URL("./files/a9601a0b299c28a91c478b53f86d0672557e5a343543efe1783dc6f54092762b4ded35fba6b531897c35d1e6a4561560470114229b05899f195c3133ec9221f1",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
+  main.variable(observer("md")).define(["md"], function(md){return(
+md`# Bar Chart Race of Video Games 1995-2021`
+)});
   const child1 = runtime.module(define1);
   main.import("select", child1);
   main.variable(observer("fileDict")).define("fileDict", function(){return(
@@ -21,9 +24,9 @@ export default function define(runtime, observer) {
   ].map(f => [fileDict[f.name], f]));
   
   const form = select({
-    description: "Select data",
+    description: "Select Dataset",
     options: Array.from(files.keys()),
-    value: "platform@2.csv"
+    value: "platform"
   });
  
   return Object.defineProperty(html`<div>${form}`, 'value', {get() { return files.get(form.value) }});
