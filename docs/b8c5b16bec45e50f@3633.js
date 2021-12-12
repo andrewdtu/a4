@@ -217,6 +217,7 @@ function ticker(svg) {
   const now = svg.append("text")
       .style("font", `bold ${barSize}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
+      .style("font-size", 72)
       .attr("text-anchor", "end")
       .attr("x", width - 6)
       .attr("y", margin.top + barSize * (n - 0.45))
