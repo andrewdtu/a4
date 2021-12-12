@@ -1,11 +1,11 @@
 {
   "name": "b8c5b16bec45e50f",
-  "main": "b8c5b16bec45e50f@3283.js",
-  "version": "3283.0.0",
+  "main": "b8c5b16bec45e50f@3578.js",
+  "version": "3578.0.0",
   "homepage": "https://observablehq.com/d/b8c5b16bec45e50f",
   "author": {
     "name": "Andrew Tu",
-    "url": "https://observablehq.com/@00429619d406dda8"
+    "url": "https://observablehq.com/@andrewdtu"
   },
   "type": "module",
   "peerDependencies": {

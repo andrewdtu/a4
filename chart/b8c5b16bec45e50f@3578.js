@@ -6,13 +6,19 @@ export default function define(runtime, observer) {
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   const child1 = runtime.module(define1);
   main.import("select", child1);
-  main.variable(observer("viewof selection")).define("viewof selection", ["FileAttachment","select","html"], function(FileAttachment,select,html)
+  main.variable(observer("fileDict")).define("fileDict", function(){return(
+{
+  "platform@2.csv":"platform",
+  "genre@1.csv":"genre",
+  "developer@1.csv":"developer"}
+)});
+  main.variable(observer("viewof selection")).define("viewof selection", ["FileAttachment","fileDict","select","html"], function(FileAttachment,fileDict,select,html)
 {
   const files = new Map([
     FileAttachment("platform@2.csv"),
     FileAttachment("genre@1.csv"),
     FileAttachment("developer@1.csv")
-  ].map(f => [f.name, f]));
+  ].map(f => [fileDict[f.name], f]));
   
   const form = select({
     description: "Select data",
@@ -28,13 +34,10 @@ export default function define(runtime, observer) {
 html`<button>Replay`
 )});
   main.variable(observer("replay")).define("replay", ["Generators", "viewof replay"], (G, _) => G.input(_));
-  main.variable(observer("chart")).define("chart", ["replay","FileAttachment","d3","width","height","bars","axis","labels","ticker","keyframes","duration","x","invalidation"], async function*(replay,FileAttachment,d3,width,height,bars,axis,labels,ticker,keyframes,duration,x,invalidation)
+  main.variable(observer("chart")).define("chart", ["replay","d3","width","height","bars","axis","labels","ticker","keyframes","duration","x","invalidation"], async function*(replay,d3,width,height,bars,axis,labels,ticker,keyframes,duration,x,invalidation)
 {
   replay;
-  
-  var genredata = FileAttachment("genre@1.csv").csv({typed: true})
-  var developerdata = FileAttachment("developer@1.csv").csv({typed: true})
-  var platformdata = FileAttachment("platform@2.csv").csv({typed: true})
+
   
   const svg = d3.create("svg")
       .attr("viewBox", [0, 0, width, height]);
@@ -186,7 +189,7 @@ function textTween(a, b) {
 d3.format(",d")
 )});
   main.variable(observer("tickFormat")).define("tickFormat", function(){return(
-undefined
+"d"
 )});
   main.variable(observer("axis")).define("axis", ["margin","d3","x","width","tickFormat","barSize","n","y"], function(margin,d3,x,width,tickFormat,barSize,n,y){return(
 function axis(svg) {
