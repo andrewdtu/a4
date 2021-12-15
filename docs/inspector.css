@@ -1,4 +1,5 @@
 :root {
+    --ff-normal: "Roboto", sans-serif;
     --syntax_normal: #1b1e23;
     --syntax_comment: #a9b0bc;
     --syntax_number: #20a5ba;
@@ -11,6 +12,18 @@
     --syntax_matchbracket: #20bbfc;
     --syntax_key: #6636b4;
     --mono_fonts: 82%/1.5 Menlo, Consolas, monospace
+}
+
+#selection {
+    font-family: var(--ff-normal);
+}
+h1{
+    font-family: var(--ff-normal);
+}
+
+.chart{
+    border: 2px solid black;
+    padding: 2px;
 }
 
 .observablehq--collapsed, .observablehq--expanded, .observablehq--function, .observablehq--gray, .observablehq--import, .observablehq--string:after, .observablehq--string:before {
