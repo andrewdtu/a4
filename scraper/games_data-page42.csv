@@ -1,63 +1,82 @@
 name,platform,r-date,score,user score,developer,genre,players,critics,users
-Oxenfree,PC,"January 14, 2016",80,7.7,NightSchoolStudio,"Action Adventure,Adventure,General",No Online Multiplayer,49,333
-Injustice: Gods Among Us - Ultimate Edition,PlayStation4,"November 12, 2013",80,7.2,NetherRealmStudios,"Action,Fighting,Fighting,2D,2D",Up to 8 ,22,564
+Crown Trick,Switch,"October 16, 2020",80,8.4,NExTStudios,"Role-Playing,Roguelike",No Online Multiplayer,8,5
+Torchlight II,PlayStation4,"September 3, 2019",80,5.0,PanicButton,"Role-Playing,Action RPG",Up to 4 ,7,33
+Overcooked!,XboxOne,"August 3, 2016",80,7.1,GhostTownGamesLtd.,"Action,Simulation,Arcade,Virtual,Career",No info,13,48
+Dariusburst: Chronicle Saviours,PC,"December 3, 2015",80,8.6,Pyramid,"Action,Shooter,Shoot-'Em-Up,Horizontal",No Online Multiplayer,9,13
+Dariusburst: Chronicle Saviours,PlayStation4,"December 2, 2015",80,7.1,Pyramid,"Action,Shooter,Shoot-'Em-Up,Horizontal",No info,15,27
+Grandia II Anniversary Edition,PC,"August 24, 2015",80,7.9,"GameArts,GungHo,SkyBoxLabs","Role-Playing,Japanese-Style",No Online Multiplayer,8,35
+Assassin's Creed III,PC,"November 20, 2012",80,6.4,Ubisoft,"Action Adventure,Historic,Historic,Open-World",No info,21,2216
+TMNT,GameBoyAdvance,"March 20, 2007",80,7.3,UbisoftMontreal,"Action,Beat-'Em-Up",1 Player,7,16
+Madden NFL 07,PC,"August 22, 2006",80,7.3,EATiburon,"Sports,Traditional,Team,Football,Sim,Sim",2  Online,15,15
+Outlast,PC,"September 4, 2013",80,8.3,RedBarrels,"Horror,Action Adventure,Horror,Survival",No Online Multiplayer,59,1762
+The Chronicles of Riddick: Assault on Dark Athena,PC,"April 7, 2009",80,7.8,Starbreeze,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",No info,26,174
+From Dust,Xbox360,"July 27, 2011",80,7.6,UbisoftMontpellier,"Strategy,Miscellaneous,Adventure,General,General,General,Puzzle,General",No info,76,91
+Hearts of Iron II: Doomsday,PC,"April 7, 2006",80,8.4,ParadoxDevelopmentStudio,"Strategy,Real-Time,Military,General,Military",8  Online,22,41
+Dishonored: The Brigmore Witches,PC,"August 13, 2013",80,8.7,ArkaneStudios,"Action Adventure,Modern,General,Modern",No info,15,221
+NBA Street Homecourt,Xbox360,"February 20, 2007",80,7.8,EACanada,"Sports,Traditional,Team,Basketball,Arcade,Arcade",2  Online,42,33
+Disgaea 4: A Promise Unforgotten,PlayStation3,"September 6, 2011",80,8.7,NipponIchiSoftware,"Strategy,Turn-Based,Fantasy,Fantasy,Tactics",No Online Multiplayer,39,112
+Virginia,XboxOne,"September 22, 2016",80,5.7,505Games,"Adventure,3D,First-Person",No info,13,44
+Oxenfree,PC,"January 14, 2016",80,7.7,NightSchoolStudio,"Action Adventure,Adventure,General",No Online Multiplayer,49,337
+Injustice: Gods Among Us - Ultimate Edition,PlayStation4,"November 12, 2013",80,7.2,NetherRealmStudios,"Action,Fighting,Fighting,2D,2D",Up to 8 ,22,571
 Mutant Mudds,3DS,"January 26, 2012",80,6.8,RenegadeKid,"Action,Platformer,Platformer,2D,2D",1 Player,25,83
 "Codename: Panzers, Phase Two",PC,"July 25, 2005",80,7.6,Stormregion,"Strategy,Real-Time,Historic,General,Historic",6  Online,36,23
-Tokyo Mirage Sessions #FE,WiiU,"June 24, 2016",80,7.9,Atlus,"General,Fantasy,Role-Playing,Strategy,Turn-Based,Japanese-Style,General",No Online Multiplayer,62,403
+Tokyo Mirage Sessions #FE,WiiU,"June 24, 2016",80,7.9,Atlus,"General,Fantasy,Role-Playing,Strategy,Turn-Based,Japanese-Style,General",No Online Multiplayer,62,405
 Full Spectrum Warrior,PC,"September 21, 2004",80,6.9,PandemicStudios,"Strategy,Real-Time,Military,General,Military",2  Online,26,43
 Mega Man Zero / ZX Legacy Collection,XboxOne,"February 25, 2020",80,7.9,"Capcom,AccessGames","Miscellaneous,Compilation",No Online Multiplayer,7,66
 Duke Nukem 3D,Xbox360,"September 24, 2008",80,8.1,3DRealms,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",8  Online,19,62
 Mega Man Anniversary Collection,Xbox,"March 15, 2005",80,8.7,AtomicPlanetEntertainment,"Action,Platformer,2D",1 Player,12,54
 Pro Evolution Soccer 2008,PSP,"March 11, 2008",80,6.6,Konami,"Sports,Traditional,Team,Soccer,Sim,Sim",2  Online,17,13
-Baten Kaitos: Eternal Wings and the Lost Ocean,GameCube,"November 16, 2004",80,8.2,MonolithSoft,"Role-Playing,Console-style RPG",1 Player,48,88
+Baten Kaitos: Eternal Wings and the Lost Ocean,GameCube,"November 16, 2004",80,8.2,MonolithSoft,"Role-Playing,Console-style RPG",1 Player,48,89
 The Banner Saga 1,Switch,"May 17, 2018",80,7.9,Stoic,"Strategy,Turn-Based,Tactics",No Online Multiplayer,16,55
 Tetris,PlayStation3,"January 4, 2011",80,7.3,EAMobile,"Miscellaneous,Puzzle,Puzzle,Puzzle,Stacking,Stacking",4  Online,11,16
 Gunman Clive 2,3DS,"January 20, 2015",80,7.7,HorbergProductions,"Action,Platformer,2D",No info,20,51
 Renegade Ops,PlayStation3,"September 13, 2011",80,7.3,AvalancheStudios,"Action,General,General,Shooter,Shoot-'Em-Up,Top-Down",No info,34,38
 Darwinia+,Xbox360,"February 10, 2010",80,6.3,Introversion,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General",1 Player,32,20
-The Darkness II,Xbox360,"February 7, 2012",80,7.6,DigitalExtremes,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",Up to 4 ,71,260
-Neon Abyss,PlayStation4,"July 14, 2020",80,7.4,VeewoGames,"Action,Platformer,2D",No Online Multiplayer,9,5
-Dragon Age: Origins - Awakening,PlayStation3,"March 16, 2010",80,7.8,BioWare,"Role-Playing,PC-style RPG,PC-style RPG,Western-Style",No info,21,80
-AI War: Fleet Command,PC,"May 14, 2009",80,7.9,"ArcenGames,LLC","Strategy,Real-Time,Sci-Fi,Sci-Fi,General",No info,8,110
-Final Fantasy Crystal Chronicles,GameCube,"February 9, 2004",80,8.9,SquareEnix,"Role-Playing,Action RPG",1-4 ,55,221
+The Darkness II,Xbox360,"February 7, 2012",80,7.6,DigitalExtremes,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",Up to 4 ,71,261
+Neon Abyss,PlayStation4,"July 14, 2020",80,7.2,VeewoGames,"Action,Platformer,2D",No Online Multiplayer,9,6
+Dragon Age: Origins - Awakening,PlayStation3,"March 16, 2010",80,7.8,BioWare,"Role-Playing,PC-style RPG,PC-style RPG,Western-Style",No info,21,81
+AI War: Fleet Command,PC,"May 14, 2009",80,7.9,"ArcenGames,LLC","Strategy,Real-Time,Sci-Fi,Sci-Fi,General",No info,8,112
+Final Fantasy Crystal Chronicles,GameCube,"February 9, 2004",80,8.9,SquareEnix,"Role-Playing,Action RPG",1-4 ,55,222
 NFL Street,PlayStation2,"January 13, 2004",80,8.8,EATiburon,"Sports,Traditional,Football,Arcade",1-4 ,36,50
 The King of Fighters EX2: Howling Blood,GameBoyAdvance,"December 11, 2003",80,8.1,Marvelous,"Action,Fighting,2D",1-2 ,10,14
-Freedom Fighters,PC,"October 1, 2003",80,7.8,IoInteractive,"Action,Shooter,Shooter,Third-Person,Tactical,Modern,Modern",1 Player,16,125
+Freedom Fighters,PC,"October 1, 2003",80,7.8,IoInteractive,"Action,Shooter,Shooter,Third-Person,Tactical,Modern,Modern",1 Player,16,126
 Wakeboarding Unleashed Featuring Shaun Murray,Xbox,"June 10, 2003",80,7.4,ShabaGames,"Sports,Alternative,Wakeboarding",1-2 ,23,8
 NBA Live 2003,PC,"November 14, 2002",80,7.8,EACanada,"Sports,Traditional,Team,Basketball,Sim,Sim",1-4 ,7,50
 Colin McRae Rally 2.0,GameBoyAdvance,"September 16, 2002",80,tbd,Spellbound,"Driving,Racing,Rally / Offroad",No info,8,0
 Capcom vs. SNK,Dreamcast,"November 9, 2000",80,8.6,Capcom,"Action,Fighting,2D",No info,17,31
-Starcraft 64,Nintendo64,"June 13, 2000",80,7.8,MassMedia,"Strategy,Real-Time,Sci-Fi",No info,17,55
-Final Fantasy Anthology,PlayStation,"September 30, 1999",80,8.6,SquareSoft,"Role-Playing,Console-style RPG",1-2 ,14,48
-Pokemon Sword / Shield Dual Pack,Switch,"November 15, 2019",80,4.3,GameFreak,"Role-Playing,Trainer",Up to 4 ,86,388
-New Super Mario Bros. U Deluxe,Switch,"January 11, 2019",80,7.1,Nintendo,"Action,Platformer,2D",No Online Multiplayer,70,312
+Starcraft 64,Nintendo64,"June 13, 2000",80,7.6,MassMedia,"Strategy,Real-Time,Sci-Fi",No info,17,56
+Final Fantasy Anthology,PlayStation,"September 30, 1999",80,8.6,SquareSoft,"Role-Playing,Console-style RPG",1-2 ,14,49
+Pokemon Sword / Shield Dual Pack,Switch,"November 15, 2019",80,4.3,GameFreak,"Role-Playing,Trainer",Up to 4 ,86,391
+New Super Mario Bros. U Deluxe,Switch,"January 11, 2019",80,7.1,Nintendo,"Action,Platformer,2D",No Online Multiplayer,70,314
 Luftrausers,PlayStation3,"March 18, 2014",80,7.3,Vlambeer,"General,Action,General,Shooter,Shoot-'Em-Up,Top-Down",No info,16,51
 The Elder Scrolls III: Tribunal,PC,"November 6, 2002",80,8.0,BethesdaSoftworks,"Role-Playing,First-Person,First-Person,Western-Style",1 Player,16,101
-Trials Fusion,XboxOne,"April 16, 2014",80,7.1,RedLynx,"Driving,Racing,Arcade,Motorcycle,Automobile,Street,Street",Up to 4 ,28,171
+Trials Fusion,XboxOne,"April 16, 2014",80,7.1,RedLynx,"Driving,Racing,Arcade,Motorcycle,Automobile,Street,Street",Up to 4 ,28,172
 Super Mega Baseball 3,PlayStation4,"May 13, 2020",80,6.9,MetalheadSoftware,"Sports,Team,Baseball,Arcade",Up to 4 ,11,14
-Xenoblade Chronicles 2: Torna ~ The Golden Country,Switch,"September 14, 2018",80,8.6,MonolithSoft,"Role-Playing,Action RPG",No info,41,361
-Call of Duty: Modern Warfare,PlayStation4,"October 25, 2019",80,3.4,InfinityWard,"Action,Shooter,First-Person,Arcade",Up to more than 64 ,78,9511
+Xenoblade Chronicles 2: Torna ~ The Golden Country,Switch,"September 14, 2018",80,8.6,MonolithSoft,"Role-Playing,Action RPG",No info,41,367
+Call of Duty: Modern Warfare,PlayStation4,"October 25, 2019",80,3.5,InfinityWard,"Action,Shooter,First-Person,Arcade",Up to more than 64 ,78,9572
+Ni no Kuni II: Revenant Kingdom - Prince's Edition,Switch,"September 17, 2021",80,8.4,Level5,"Role-Playing,Japanese-Style",No info,36,14
 Ghost Giant,PlayStation4,"April 16, 2019",80,7.1,Zoink!,"Adventure,General",No Online Multiplayer,32,41
-Elite: Dangerous,PC,"December 16, 2014",80,6.7,FrontierDevelopments,"Sci-Fi,Large Spaceship,Large Spaceship,Simulation,Space,Civilian",No info,54,1883
+Elite: Dangerous,PC,"December 16, 2014",80,6.7,FrontierDevelopments,"Sci-Fi,Large Spaceship,Large Spaceship,Simulation,Space,Civilian",No info,54,1887
 Pure,PC,"September 16, 2008",80,7.0,BlackRockStudio,"Driving,Racing,Arcade,Arcade,Automobile",No info,18,38
 South Park: The Fractured But Whole,Switch,"April 24, 2018",80,7.8,UbisoftSanFrancisco,"Role-Playing,General",No Online Multiplayer,32,140
 IL-2 Sturmovik: Birds of Prey,Xbox360,"September 8, 2009",80,8.1,GaijinEntertainment,"Simulation,Flight,WWII,WWII,Combat",Up to 16 ,43,22
-God of War: Ascension,PlayStation3,"March 12, 2013",80,7.6,SCESantaMonica,"Action Adventure,Fantasy,Fantasy,Linear",Up to 8 ,89,1252
+God of War: Ascension,PlayStation3,"March 12, 2013",80,7.6,SCESantaMonica,"Action Adventure,Fantasy,Fantasy,Linear",Up to 8 ,89,1256
 Tiger Woods PGA Tour 07,Xbox360,"October 17, 2006",80,7.8,EARedwoodShores,"Sports,Traditional,Individual,Golf,Sim,Sim",4  Online,44,22
 Life is Strange: Episode 3 - Chaos Theory,XboxOne,"May 19, 2015",80,8.4,DONTNODEntertainment,"Action Adventure,General",No info,12,73
-Final Fantasy VIII Remastered,Switch,"September 3, 2019",80,7.0,SquareEnix,"Role-Playing,Japanese-Style",No Online Multiplayer,12,77
-Life is Strange: Before the Storm - Farewell,PlayStation4,"March 5, 2018",80,7.7,DeckNineGames,"Action Adventure,General",No Online Multiplayer,12,97
+Final Fantasy VIII Remastered,Switch,"September 3, 2019",80,7.0,SquareEnix,"Role-Playing,Japanese-Style",No Online Multiplayer,12,78
+Life is Strange: Before the Storm - Farewell,PlayStation4,"March 5, 2018",80,7.6,DeckNineGames,"Action Adventure,General",No Online Multiplayer,12,100
 Darkstalkers Resurrection,PlayStation3,"March 12, 2013",80,7.4,IronGalaxyStudios,"Action,Miscellaneous,Fighting,Compilation,2D",Up to 8 ,33,32
 Boomerang X,Switch,"July 8, 2021",80,6.3,DANG!,"General,Action,Shooter,First-Person,Arcade",No Online Multiplayer,15,4
 The Walking Dead: The Telltale Series - A New Frontier Episode 2: Ties That Bind Part Two,PC,"December 20, 2016",80,7.1,TelltaleGames,"Action,Adventure,General,Point-and-Click",No info,33,86
 Buzz! Quiz TV,PlayStation3,"September 23, 2008",80,7.2,RelentlessSoftware,"Miscellaneous,Trivia / Game Show,Trivia / Game Show",Up to 4 ,48,31
+Impostor Factory,PC,"September 30, 2021",80,8.5,FreebirdGames,"Adventure,General",No info,13,26
 OkunoKA,Switch,"November 30, 2018",80,8.2,CaracalGames,"Action,Platformer,2D",No Online Multiplayer,7,16
 The Gardens Between,PC,"September 19, 2018",80,6.9,TheVoxelAgents,"Adventure,General",No Online Multiplayer,11,36
-Goodbye Deponia,PC,"October 17, 2013",80,7.9,DaedalicEntertainment,"Adventure,General,General",No Online Multiplayer,34,230
-Tekken 6,Xbox360,"October 27, 2009",80,7.0,"NamcoBandaiGamesAmerica,NamcoBandaiGames","Action,Fighting,Fighting,3D,3D",2  Online,59,165
+Goodbye Deponia,PC,"October 17, 2013",80,7.9,DaedalicEntertainment,"Adventure,General,General",No Online Multiplayer,34,232
+Tekken 6,Xbox360,"October 27, 2009",80,7.0,"NamcoBandaiGamesAmerica,NamcoBandaiGames","Action,Fighting,Fighting,3D,3D",2  Online,59,166
 Mega Man X Legacy Collection 1 + 2,PlayStation4,"July 24, 2018",80,8.5,Capcom,"Miscellaneous,Compilation",No Online Multiplayer,20,108
 Game of Thrones: Episode One - Iron From Ice,XboxOne,"December 3, 2014",80,7.9,TelltaleGames,"Action,Adventure,General,Point-and-Click",No info,14,84
-Naruto Shippuden: Ultimate Ninja Storm 4,XboxOne,"February 9, 2016",80,8.3,CyberConnect2,"Action,Fighting,3D",No info,12,95
+Naruto Shippuden: Ultimate Ninja Storm 4,XboxOne,"February 9, 2016",80,8.3,CyberConnect2,"Action,Fighting,3D",No info,12,97
 LEGO Dimensions,PlayStation4,"September 27, 2015",80,7.2,Traveller'sTales,"Action Adventure,General",Up to 4 ,53,84
 Borderlands: The Handsome Collection,XboxOne,"March 24, 2015",80,8.0,"GearboxSoftware,IronGalaxyStudios","Miscellaneous,Compilation",Up to 4 ,11,165
 NCAA Football 10,PlayStation3,"July 14, 2009",80,6.9,EATiburon,"Sports,Traditional,Team,Football,Sim,Sim",2  Online,20,14
@@ -65,37 +84,18 @@ Sid Meier's Civilization VI: Gathering Storm,PC,"February 14, 2019",80,6.7,Firax
 The Banner Saga 2,Switch,"June 7, 2018",80,8.5,Stoic,"Strategy,Turn-Based,Tactics",No Online Multiplayer,15,28
 2064: Read Only Memories,PC,"October 5, 2015",80,4.3,MidBoss,"General,Adventure,Point-and-Click",No Online Multiplayer,12,121
 PixelJunk Eden,PlayStation3,"July 31, 2008",80,7.8,Q-Games,"Action,Platformer,Platformer,2D,2D",1-3 ,34,38
-Sly Cooper Collection,PlayStationVita,"May 27, 2014",80,7.9,SanzaruGames,"Miscellaneous,Compilation",No Online Multiplayer,30,84
+Sly Cooper Collection,PlayStationVita,"May 27, 2014",80,7.9,SanzaruGames,"Miscellaneous,Compilation",No Online Multiplayer,30,85
 Super Street Fighter IV: Arcade Edition,PlayStation3,"June 7, 2011",80,7.2,Capcom,"Action,Fighting,Fighting,3D,2D,2D,3D",Up to 8 ,24,61
 SWAT 4: The Stetchkov Syndicate,PC,"February 28, 2006",80,8.0,IrrationalGames,"Action,Shooter,Shooter,First-Person,Modern,Tactical,Arcade",16  Online,19,64
-NBA 2K21,XboxSeriesX,"November 10, 2020",80,4.8,VisualConcepts,"Sports,Team,Basketball,Arcade",Up to 10 ,22,46
-Thronebreaker: The Witcher Tales,PlayStation4,"December 4, 2018",80,7.4,CDProjektRedStudio,"Role-Playing,Action RPG,Strategy,Turn-Based,Card Battle",Online Multiplayer,8,108
+NBA 2K21,XboxSeriesX,"November 10, 2020",80,4.7,VisualConcepts,"Sports,Team,Basketball,Arcade",Up to 10 ,22,47
+Thronebreaker: The Witcher Tales,PlayStation4,"December 4, 2018",80,7.5,CDProjektRedStudio,"Role-Playing,Action RPG,Strategy,Turn-Based,Card Battle",Online Multiplayer,8,111
 Dropsy,PC,"September 10, 2015",80,7.5,"Tendershoot,AJollyCorpse","Adventure,Point-and-Click",No Online Multiplayer,28,54
 Company of Heroes 2: The British Forces,PC,"September 2, 2015",80,6.3,"Relic,RelicEntertainment","Strategy,Real-Time,General",No info,14,58
 WWE SmackDown! vs. Raw,PlayStation2,"November 2, 2004",80,8.6,Yuke's,"Action,Fighting,Wrestling",2  Online,46,109
 Phoenix Wright: Ace Attorney Trilogy,PlayStation4,"April 9, 2019",80,7.8,Capcom,"Miscellaneous,Compilation",No Online Multiplayer,24,52
 Darkwood,PC,"July 17, 2017",80,8.2,AcidWizardStudio,"Action Adventure,Horror,Survival",No Online Multiplayer,16,138
-Ground Control II: Operation Exodus,PC,"June 23, 2004",80,7.8,MassiveEntertainment,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General,Tactics",Up to 8 ,47,31
-Pokemon White Version 2,DS,"October 7, 2012",80,7.9,GameFreak,"Role-Playing,Console-style RPG,Console-style RPG,Trainer",Up to 5 ,57,378
-Pokemon Shield,Switch,"November 15, 2019",80,4.6,GameFreak,"Role-Playing,Trainer",Up to 4 ,89,3019
-Diablo II: Resurrected,XboxSeriesX,"September 23, 2021",80,3.2,BlizzardEntertainment,"Role-Playing,Action RPG",No info,10,73
+Ground Control II: Operation Exodus,PC,"June 23, 2004",80,8.1,MassiveEntertainment,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General,Tactics",Up to 8 ,47,35
+Pokemon White Version 2,DS,"October 7, 2012",80,7.9,GameFreak,"Role-Playing,Console-style RPG,Console-style RPG,Trainer",Up to 5 ,57,388
+Pokemon Shield,Switch,"November 15, 2019",80,4.6,GameFreak,"Role-Playing,Trainer",Up to 4 ,89,3073
+Diablo II: Resurrected,XboxSeriesX,"September 23, 2021",80,3.4,BlizzardEntertainment,"Role-Playing,Action RPG",No info,10,78
 Bloodstained: Curse of the Moon 2,PC,"July 10, 2020",80,8.0,IntiCreates,"Action Adventure,Open-World",Online Multiplayer,8,13
-Shin Megami Tensei: Strange Journey,DS,"March 23, 2010",80,4.8,Atlus,"Role-Playing,First-Person,First-Person,Western-Style",No Online Multiplayer,26,244
-NBA Live 2004,PC,"November 11, 2003",80,8.8,EASports,"Sports,Traditional,Team,Basketball,Sim,Sim",1-8 ,10,65
-NHL 2003,Xbox,"October 9, 2002",80,7.4,EASports,"Sports,Traditional,Ice Hockey,Sim",1-4 ,12,9
-MLB Slugfest 20-03,GameCube,"September 3, 2002",80,tbd,GratuitousGames,"Sports,Traditional,Baseball,Arcade",1-2 ,10,0
-MDK 2: Armageddon,PlayStation2,"March 26, 2001",80,7.9,BioWare,"Action,Shooter,Third-Person,Sci-Fi",1 Player,19,14
-Jarrett & Labonte Stock Car Racing,PlayStation,"October 3, 2000",80,7.7,Codemasters,"Driving,Racing,GT / Street",No info,8,6
-Fur Fighters,Dreamcast,"July 11, 2000",80,7.4,BizarreCreations,"Action,Shooter,Third-Person,Fantasy",No info,17,20
-Skate 3,Xbox360,"May 11, 2010",80,8.2,EABlackBox,"Sports,Alternative,Individual,Skateboarding,Skateboarding,Skate / Skateboard",Up to 6 ,65,172
-Tiger Woods PGA Tour 12: The Masters,PlayStation3,"March 29, 2011",80,7.2,ElectronicArts,"Sports,Traditional,Individual,Golf,Sim,Sim",Up to 4 ,41,19
-Puppeteer,PlayStation3,"September 10, 2013",80,8.4,SCEJapanStudio,"Action,Platformer,Platformer,3D,2D,3D",No Online Multiplayer,75,274
-Tomb Raider: Legend,Xbox360,"April 11, 2006",80,7.4,CrystalDynamics,"Action Adventure,Modern,Modern,Linear",No Online Multiplayer,54,104
-The Eternal Cylinder,PlayStation4,"September 30, 2021",80,tbd,ACETeam,"Action Adventure,Open-World",No info,8,0
-Valfaris,PlayStation4,"November 5, 2019",80,7.0,SteelMantis,"Action,Platformer,2D",No Online Multiplayer,9,31
-Under Night In-Birth Exe:Late,PlayStation3,"February 24, 2015",80,8.4,French-Bread,"Action,Fighting,2D",Up to 8 ,19,48
-Brutal Legend,PC,"February 26, 2013",80,7.8,DoubleFineProductions,"Action,General,Fantasy,General,Fantasy,Action Adventure,Open-World",No info,17,490
-Tomb Raider: Underworld,PC,"November 18, 2008",80,7.7,NixxesSoftware,"Action Adventure,Modern,General,Modern",No Online Multiplayer,20,346
-Sega Ages: Thunder Force AC,Switch,"May 28, 2020",80,tbd,"M2,TechnoSoft","Action,Shooter,Shoot-'Em-Up,Horizontal",No Online Multiplayer,11,0
-The Walking Dead: The Telltale Series - A New Frontier Episode 1: Ties That Bind Part One,PlayStation4,"December 20, 2016",80,6.9,TelltaleGames,"Action,General,Adventure,Point-and-Click",No info,10,57
-Titan Quest: Immortal Throne,PC,"March 5, 2007",80,8.4,IronLoreEntertainment,"Role-Playing,Action RPG,Action RPG",Online Multiplayer,23,268
