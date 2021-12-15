@@ -1,19 +1,33 @@
 name,platform,r-date,score,user score,developer,genre,players,critics,users
+Void Bastards,PC,"May 28, 2019",81,7.4,BlueManchu,"Action,Shooter,First-Person,Arcade",No Online Multiplayer,27,79
+Redout (2016),PC,"September 2, 2016",81,7.9,34BigThings,"General,Racing,Arcade,Futuristic",Online Multiplayer,19,169
+God of War III Remastered,PlayStation4,"July 14, 2015",81,8.2,WholesaleAlgorithms,"Action Adventure,Linear",No Online Multiplayer,67,1329
+Super Monkey Ball Deluxe,Xbox,"March 15, 2005",81,7.8,Sega,"Miscellaneous,Party",1-4 ,25,14
+The 2D Adventures of Rotating Octopus Character,PSP,"June 2, 2011",81,tbd,DakkoDakko,"Action,Platformer,Platformer,2D,2D",1 Player,7,0
+WRC 9 FIA World Rally Championship,PlayStation4,"September 4, 2020",81,5.7,KTRacing,"Racing,Simulation,Automobile",Up to 8 ,24,43
+Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep,PC,"August 30, 2010",81,7.7,TelltaleGames,"Miscellaneous,Adventure,General,3D,Compilation,Third-Person",No Online Multiplayer,21,18
+Stick it to the Man!,WiiU,"May 1, 2014",81,7.5,Zoink!,"Action,Platformer,3D",No info,11,26
+Puzzle Quest 2,Xbox360,"June 30, 2010",81,8.5,InfiniteInteractive,"Miscellaneous,Puzzle,Action,Puzzle,Puzzle,Action",No info,32,21
+Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone,PlayStation3,"April 15, 2010",81,7.2,TelltaleGames,"Miscellaneous,Adventure,General,3D,Compilation,Third-Person",1 Player,21,21
+Age of Empires III: The Asian Dynasties,PC,"October 23, 2007",81,8.4,BigHugeGames,"Strategy,Real-Time,Historic,Historic,Command",8  Online,19,103
+Mortal Kombat: Deadly Alliance,GameCube,"November 17, 2002",81,8.6,Midway,"Action,Fighting,3D",1-2 ,20,43
+BoxBoy! + BoxGirl!,Switch,"April 26, 2019",81,7.9,HALLabs,"Puzzle,Action",No Online Multiplayer,41,39
+MLB 2006,PlayStation2,"March 8, 2005",81,8.6,989Sports,"Sports,Traditional,Baseball,Sim",2  Online,32,22
 Defense Grid: The Awakening,PC,"December 8, 2008",81,8.6,HiddenPathEntertainment,"Strategy,Real-Time,General,General,Defense",No Online Multiplayer,11,283
 Battle Chef Brigade,Switch,"November 20, 2017",81,8.3,TrinketStudios,"Action,Beat-'Em-Up,2D",No Online Multiplayer,22,45
 "Codename: Panzers, Phase One",PC,"September 30, 2004",81,8.6,Stormregion,"Strategy,Real-Time,Historic,General,Historic",8  Online,38,53
 Affordable Space Adventures,WiiU,"April 9, 2015",81,8.1,KnapNokGames,"Scrolling,Action,Shooter,Shoot-'Em-Up,Vertical",No info,36,89
 Prince of Persia,Xbox360,"December 2, 2008",81,7.1,UbisoftMontreal,"Action Adventure,Fantasy,General,Fantasy",1 Player,73,223
-Dragon Quest VII: Fragments of the Forgotten Past,3DS,"September 16, 2016",81,8.2,ArtePiazza,"Role-Playing,Japanese-Style",No Online Multiplayer,56,143
-TOEM,PlayStation5,"September 17, 2021",81,tbd,SomethingWeMade,"Adventure,General",No info,7,0
+Dragon Quest VII: Fragments of the Forgotten Past,3DS,"September 16, 2016",81,8.2,ArtePiazza,"Role-Playing,Japanese-Style",No Online Multiplayer,56,145
+Unpacking,XboxOne,"November 2, 2021",81,7.4,WitchBeam,"Puzzle,Action,General",No info,12,14
 AVICII Invector Encore Edition,Switch,"September 8, 2020",81,7.7,WiredProductions,"Action,Rhythm,Music",No Online Multiplayer,11,7
 Yooka-Laylee and the Impossible Lair,Switch,"October 8, 2019",81,7.7,PlaytonicGames,"Action,Platformer,2D",No Online Multiplayer,17,115
-Darksiders: Warmastered Edition,PlayStation4,"November 22, 2016",81,7.8,"NordicGamesPublishing,Kaiko","Action Adventure,Open-World",No info,12,169
+Darksiders: Warmastered Edition,PlayStation4,"November 22, 2016",81,7.8,"NordicGamesPublishing,Kaiko","Action Adventure,Open-World",No info,12,174
 FIFA 16,PC,"September 22, 2015",81,4.6,EASports,"Sports,Team,Soccer,Sim",No info,10,359
 3D After Burner II,3DS,"January 15, 2015",81,7.8,M2,"Action,Shooter,Scrolling,Shoot-'Em-Up,Vertical",No info,12,22
 Europa Universalis IV: Conquest of Paradise,PC,"January 14, 2014",81,7.7,ParadoxDevelopmentStudio,"Strategy,Real-Time,Historic,General,Historic",No info,8,56
 NFL Street,Xbox,"January 13, 2004",81,8.8,EATiburon,"Sports,Traditional,Football,Arcade",1-4 ,38,11
-Ghost Master,PC,"August 26, 2003",81,7.9,SickPuppies,"Strategy,Real-Time,Fantasy,General,Fantasy",No Online Multiplayer,28,95
+Ghost Master,PC,"August 26, 2003",81,7.9,SickPuppies,"Strategy,Real-Time,Fantasy,General,Fantasy",No Online Multiplayer,28,98
 Tom Clancy's Ghost Recon: Island Thunder,Xbox,"August 6, 2003",81,7.8,RedStormEntertainment,"Action,Shooter,First-Person,Tactical,Modern",1-16 ,33,18
 Def Jam Vendetta,GameCube,"March 31, 2003",81,8.2,AkiCorp.,"Action,Fighting,Wrestling",1-4 ,22,11
 Divine Divinity,PC,"September 22, 2002",81,8.4,LarianStudiosGames,"Role-Playing,Action RPG,Action RPG",No Online Multiplayer,21,212
@@ -25,20 +39,22 @@ Knockout Kings 2001,PlayStation2,"February 5, 2001",81,tbd,BlackOpsEntertainment
 The Book of Unwritten Tales 2,PC,"February 20, 2015",80,7.6,KINGArt,"Adventure,General,Point-and-Click",No Online Multiplayer,39,89
 Sid Meier's Civilization Revolution,DS,"July 8, 2008",80,7.8,FiraxisGames,"Strategy,Turn-Based,Historic,General,Historic",No info,26,27
 Donkey Kong Jungle Beat,GameCube,"March 14, 2005",80,8.2,Nintendo,"Action,Platformer,2D",1 Player,49,45
-Catherine: Full Body,Switch,"July 7, 2020",80,8.3,"Atlus,StudioZero","Action Adventure,Survival",2 ,30,108
-Call of Duty: Modern Warfare,XboxOne,"October 25, 2019",80,3.8,InfinityWard,"Action,Shooter,First-Person,Arcade",Up to 20 ,22,1306
+Catherine: Full Body,Switch,"July 7, 2020",80,8.2,"Atlus,StudioZero","Action Adventure,Survival",2 ,30,111
+Call of Duty: Modern Warfare,XboxOne,"October 25, 2019",80,3.8,InfinityWard,"Action,Shooter,First-Person,Arcade",Up to 20 ,22,1314
 Dungeon Defenders,PlayStation3,"October 18, 2011",80,6.7,TrendyEntertainment,"Role-Playing,Action RPG,Action RPG",Up to 4 ,18,46
 Ultimate Marvel vs. Capcom 3,PlayStation3,"November 15, 2011",80,6.6,Capcom,"Action,Fighting,Fighting,2D,2D",Up to 8 ,36,140
 Mario Power Tennis,GameCube,"November 8, 2004",80,8.5,CamelotSoftwarePlanning,"Sports,Traditional,Tennis",1-4 ,43,68
-Final Fantasy VIII Remastered,PlayStation4,"September 3, 2019",80,7.1,SquareEnix,"Role-Playing,Japanese-Style",No Online Multiplayer,34,166
-Gears Tactics,PC,"April 28, 2020",80,7.7,"SplashDamage,TheCoalition","Strategy,Turn-Based,Tactics",No Online Multiplayer,92,473
-The Legend of Heroes: Trails of Cold Steel II,PlayStationVita,"September 6, 2016",80,8.3,Falcom,"Role-Playing,Japanese-Style",No Online Multiplayer,26,73
+Final Fantasy VIII Remastered,PlayStation4,"September 3, 2019",80,7.1,SquareEnix,"Role-Playing,Japanese-Style",No Online Multiplayer,34,167
+Gears Tactics,PC,"April 28, 2020",80,7.6,"SplashDamage,TheCoalition","Strategy,Turn-Based,Tactics",No Online Multiplayer,92,478
+The Legend of Heroes: Trails of Cold Steel II,PlayStationVita,"September 6, 2016",80,8.3,Falcom,"Role-Playing,Japanese-Style",No Online Multiplayer,26,74
 Buzz! Quiz World,PlayStation3,"November 11, 2009",80,7.9,RelentlessSoftware,"Miscellaneous,Trivia / Game Show,Trivia / Game Show",1-8 ,33,20
-Plants vs Zombies: Garden Warfare 2,XboxOne,"February 23, 2016",80,7.9,PopCap,"Action,Shooter,Third-Person,Tactical",Up to 24 ,64,131
+Plants vs Zombies: Garden Warfare 2,XboxOne,"February 23, 2016",80,7.9,PopCap,"Action,Shooter,Third-Person,Tactical",Up to 24 ,64,132
+Old World,PC,"July 1, 2021",80,7.4,MohawkGames,"Strategy,Turn-Based,4X",Up to 10 ,9,62
 Dark Deity,PC,"June 15, 2021",80,4.9,Sword&AxeLLC,"Role-Playing,General,Japanese-Style",No Online Multiplayer,13,8
-Phoenix Wright: Ace Attorney Trilogy,PC,"April 9, 2019",80,8.8,Capcom,"Miscellaneous,Compilation",No Online Multiplayer,10,46
+Phoenix Wright: Ace Attorney Trilogy,PC,"April 9, 2019",80,8.8,Capcom,"Miscellaneous,Compilation",No Online Multiplayer,10,47
 Shantae: Half-Genie Hero,WiiU,"December 20, 2016",80,8.4,WayForward,"Action,Platformer,Platformer,2D,2D",No info,9,47
 Madden NFL 25,Xbox360,"August 27, 2013",80,5.6,EASports,"Sports,Traditional,Team,Football,Arcade,Arcade,Sim",Up to 4 ,32,142
+TOEM,PlayStation5,"September 17, 2021",80,tbd,SomethingWeMade,"Adventure,General",No info,8,0
 The Last Campfire,PC,"August 27, 2020",80,8.4,HelloGames,"Adventure,Puzzle,Action,General",No Online Multiplayer,9,35
 The Red Strings Club,Switch,"March 14, 2019",80,7.5,Deconstructeam,"Adventure,Visual Novel",No Online Multiplayer,10,23
 Tales of Vesperia: Definitive Edition,XboxOne,"January 11, 2019",80,7.3,BandaiNamcoGames,"Role-Playing,Action RPG",Online Multiplayer,10,43
@@ -47,55 +63,39 @@ Disgaea 5: Alliance of Vengeance,PlayStation4,"October 6, 2015",80,8.2,NipponIch
 Lovers in a Dangerous Spacetime,PC,"September 9, 2015",80,7.7,AsteroidBase,"Action,Platformer,Platformer,Shooter,2D,2D,Shoot-'Em-Up,Horizontal",No Online Multiplayer,16,32
 Age of Conan: Hyborian Adventures,PC,"May 20, 2008",80,7.3,Funcom,"Role-Playing,Massively Multiplayer Online,Massively Multiplayer,Fantasy,Fantasy",Massively Multiplayer,44,828
 Company of Heroes 2: The Western Front Armies,PC,"June 23, 2014",80,6.9,"Relic,RelicEntertainment","Strategy,Real-Time,General,Historic",No info,29,120
-Rogue Legacy,Switch,"November 6, 2018",80,8.5,CellarDoorGames,"Action,Platformer,2D",No Online Multiplayer,8,13
-Darksiders: Warmastered Edition,XboxOne,"November 22, 2016",80,8.1,NordicGamesPublishing,"Action Adventure,Open-World",No info,17,43
-Sid Meier's Civilization V: Gods & Kings,PC,"June 18, 2012",80,7.7,FiraxisGames,"Strategy,Turn-Based,Historic,Historic,4X",No info,53,453
-Metro Redux,Switch,"February 28, 2020",80,8.4,4AGames,"Miscellaneous,Compilation",No Online Multiplayer,27,67
+Rogue Legacy,Switch,"November 6, 2018",80,7.9,CellarDoorGames,"Action,Platformer,2D",No Online Multiplayer,8,14
+Darksiders: Warmastered Edition,XboxOne,"November 22, 2016",80,8.2,NordicGamesPublishing,"Action Adventure,Open-World",No info,17,46
+Sid Meier's Civilization V: Gods & Kings,PC,"June 18, 2012",80,7.7,FiraxisGames,"Strategy,Turn-Based,Historic,Historic,4X",No info,53,455
+Metro Redux,Switch,"February 28, 2020",80,8.4,4AGames,"Miscellaneous,Compilation",No Online Multiplayer,27,70
 Dragon Quest IV: Chapters of the Chosen,DS,"September 16, 2008",80,8.1,ArtePiazza,"Role-Playing,Console-style RPG,Console-style RPG,Japanese-Style",No Online Multiplayer,44,67
 The Elder Scrolls Online: Elsweyr,PC,"May 20, 2019",80,8.0,ZeniMaxMedia,"Role-Playing,Massively Multiplayer",Massively Multiplayer,18,41
-The Elder Scrolls: Legends,PC,"March 20, 2017",80,5.5,"BethesdaSoftworks,DireWolfDigital","Miscellaneous,Board / Card Game",Online Multiplayer,17,107
-Watch Dogs,PlayStation4,"May 27, 2014",80,6.5,UbisoftMontreal,"Modern,Action Adventure,General,Modern,Open-World",Up to 8 ,80,3527
-Age of Empires III: The WarChiefs,PC,"October 17, 2006",80,7.8,EnsembleStudios,"Strategy,Real-Time,Historic,Historic,Command",8  Online,26,101
-Ace Combat 6: Fires of Liberation,Xbox360,"October 23, 2007",80,8.0,ProjectAces,"Action,Simulation,Flight,Flight,Combat",Up to 16 ,54,116
-WRC 10,XboxSeriesX,"September 2, 2021",80,7.0,KTRacing,"Racing,Simulation,Automobile",No info,12,5
-Crash Team Racing: Nitro-Fueled,Switch,"June 21, 2019",80,6.4,Beenox,"Racing,Arcade,Automobile",Up to 8 ,18,253
+The Elder Scrolls: Legends,PC,"March 20, 2017",80,5.5,"BethesdaSoftworks,DireWolfDigital","Miscellaneous,Board / Card Game",Online Multiplayer,17,108
+Watch Dogs,PlayStation4,"May 27, 2014",80,6.5,UbisoftMontreal,"Modern,Action Adventure,General,Modern,Open-World",Up to 8 ,80,3546
+Age of Empires III: The WarChiefs,PC,"October 17, 2006",80,7.8,EnsembleStudios,"Strategy,Real-Time,Historic,Historic,Command",8  Online,26,102
+Ace Combat 6: Fires of Liberation,Xbox360,"October 23, 2007",80,8.0,ProjectAces,"Action,Simulation,Flight,Flight,Combat",Up to 16 ,54,117
+WRC 10,XboxSeriesX,"September 2, 2021",80,7.0,KTRacing,"Racing,Simulation,Automobile",Up to 8 ,12,5
+Crash Team Racing: Nitro-Fueled,Switch,"June 21, 2019",80,6.4,Beenox,"Racing,Arcade,Automobile",Up to 8 ,18,254
 Phoenix Wright: Ace Attorney Trilogy,XboxOne,"April 9, 2019",80,7.4,Capcom,"Miscellaneous,Compilation",No Online Multiplayer,12,21
-Sleeping Dogs,PC,"August 13, 2012",80,8.2,UnitedFrontGames,"Modern,Action Adventure,Modern,Open-World",No Online Multiplayer,23,1480
-LEGO Marvel Super Heroes,Xbox360,"October 22, 2013",80,7.8,TTGames,"Action Adventure,Fantasy,General,Fantasy,Open-World",No Online Multiplayer,37,152
-Alan Wake Remastered,XboxSeriesX,"October 5, 2021",80,7.8,RemedyEntertainment,"Action Adventure,Survival",No info,23,52
+Sleeping Dogs,PC,"August 13, 2012",80,8.2,UnitedFrontGames,"Modern,Action Adventure,Modern,Open-World",No Online Multiplayer,23,1486
+LEGO Marvel Super Heroes,Xbox360,"October 22, 2013",80,7.8,TTGames,"Action Adventure,Fantasy,General,Fantasy,Open-World",No Online Multiplayer,37,153
+Alan Wake Remastered,XboxSeriesX,"October 5, 2021",80,7.8,RemedyEntertainment,"Action Adventure,Survival",No info,23,60
 Youropa,PC,"June 27, 2018",80,7.8,frecleApS,"Action Adventure,General",No Online Multiplayer,17,17
 LEGO Dimensions,XboxOne,"September 27, 2015",80,7.1,Traveller'sTales,"Action Adventure,General",No Online Multiplayer,12,33
-Bully: Scholarship Edition,Xbox360,"March 4, 2008",80,8.3,"MadDocSoftware,RockstarVancouver","Action Adventure,Modern,Modern,Open-World",No Online Multiplayer,56,205
-Endless Space 2,PC,"May 19, 2017",80,7.9,AmplitudeStudios,"Strategy,Turn-Based,4X",Online Multiplayer,48,172
+Bully: Scholarship Edition,Xbox360,"March 4, 2008",80,8.3,"MadDocSoftware,RockstarVancouver","Action Adventure,Modern,Modern,Open-World",No Online Multiplayer,56,208
+Endless Space 2,PC,"May 19, 2017",80,7.9,AmplitudeStudios,"Strategy,Turn-Based,4X",Online Multiplayer,48,173
 ABZU,Switch,"November 29, 2018",80,7.4,GiantSquid,"Adventure,3D,Third-Person",No Online Multiplayer,21,50
-Pokemon Black Version 2,DS,"October 7, 2012",80,7.9,GameFreak,"Role-Playing,Console-style RPG,Console-style RPG,Trainer",2 ,56,509
+Pokemon Black Version 2,DS,"October 7, 2012",80,7.9,GameFreak,"Role-Playing,Console-style RPG,Console-style RPG,Trainer",2 ,56,526
 Tom Clancy's Ghost Recon 2,Xbox,"November 16, 2004",80,8.6,RedStormEntertainment,"Action,Shooter,First-Person,Tactical,Modern",16  Online,53,62
-Kena: Bridge of Spirits,PlayStation5,"September 21, 2021",80,8.5,Emberlab,"Open-World,Action Adventure,General",No info,80,810
-Soul Reaver 2,PlayStation2,"October 31, 2001",80,8.5,CrystalDynamics,"Action Adventure,Horror",1 Player,22,55
+Kena: Bridge of Spirits,PlayStation5,"September 21, 2021",80,8.5,Emberlab,"Open-World,Action Adventure,General",No Online Multiplayer,80,881
+Soul Reaver 2,PlayStation2,"October 31, 2001",80,8.5,CrystalDynamics,"Action Adventure,Horror",1 Player,22,56
 Rocket Riot,Xbox360,"June 17, 2009",80,7.6,Codeglue,"Action,General,General",8  Online,32,14
-The Chronicles of Riddick: Assault on Dark Athena,PlayStation3,"April 7, 2009",80,8.0,Starbreeze,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",No info,45,46
-Detroit: Become Human,PC,"December 12, 2019",80,7.7,QuanticDream,"Adventure,3D,Third-Person",No Online Multiplayer,13,692
-Leap of Fate,PC,"March 30, 2016",80,7.1,Clever-Plays,"Action,General",No Online Multiplayer,8,16
-Metal Gear Solid V: Ground Zeroes,PC,"December 18, 2014",80,7.6,KojimaProductions,"Action Adventure,General,Modern,Open-World",No Online Multiplayer,20,512
+The Chronicles of Riddick: Assault on Dark Athena,PlayStation3,"April 7, 2009",80,8.0,Starbreeze,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",No info,45,48
+Detroit: Become Human,PC,"December 12, 2019",80,7.7,QuanticDream,"Adventure,3D,Third-Person",No Online Multiplayer,13,707
+Leap of Fate,PC,"March 30, 2016",80,7.1,Clever-Plays,"Action,Role-Playing,General,Roguelike",No Online Multiplayer,8,16
+Metal Gear Solid V: Ground Zeroes,PC,"December 18, 2014",80,7.6,KojimaProductions,"Action Adventure,General,Modern,Open-World",No Online Multiplayer,20,515
 Trials Fusion,PC,"April 16, 2014",80,6.9,RedLynx,"Driving,Racing,Arcade,Motorcycle,Automobile,Street,Street",No info,12,114
 Syberia II,PC,"March 30, 2004",80,8.4,Microids,"Adventure,3D,Fantasy,Third-Person,Fantasy",No Online Multiplayer,23,230
-Shenmue II,Xbox,"October 28, 2002",80,8.9,SegaAM2,"Action Adventure,Modern",1 Player,31,155
+Shenmue II,Xbox,"October 28, 2002",80,8.9,SegaAM2,"Action Adventure,Modern",1 Player,31,156
 Tiger Woods PGA Tour 2002,PlayStation2,"February 24, 2002",80,7.6,EASports,"Sports,Traditional,Golf,Sim",1-4 ,23,5
 Ecks vs. Sever,GameBoyAdvance,"November 27, 2001",80,8.0,CrawfishInteractive,"Action,Shooter,First-Person,Modern",1-4 ,20,5
-Tom Clancy's Ghost Recon,PC,"November 13, 2001",80,7.6,RedStormEntertainment,"Action,Shooter,Shooter,First-Person,Tactical,Modern,Modern",No info,19,79
-Conquest: Frontier Wars,PC,"August 14, 2001",80,8.1,FeverPitchStudios,"Strategy,General,General",Online Multiplayer,13,15
-"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",PC,"October 5, 1999",80,8.3,SierraEntertainment,"Adventure,General,Point-and-Click",No Online Multiplayer,19,58
-Jet Force Gemini,Nintendo64,"September 30, 1999",80,8.8,RareLtd.,"Action,Shooter,Third-Person,Sci-Fi",1-4 ,14,91
-Star Ocean: The Second Story,PlayStation,"May 31, 1999",80,8.5,Tri-Ace,"Role-Playing,Console-style RPG",1 Player,13,67
-Sid Meier's Pirates!,Xbox,"July 11, 2005",80,6.4,FiraxisGames,"Strategy,General",1-4 ,47,24
-Tyranny,PC,"November 10, 2016",80,7.8,ObsidianEntertainment,"Role-Playing,Western-Style",No Online Multiplayer,67,622
-Gitaroo Man Lives!,PSP,"November 14, 2006",80,8.4,Koei/Inis,"Action,Miscellaneous,Rhythm,Music,Music",1-2 ,37,20
-Skul: The Hero Slayer,PC,"January 21, 2021",80,6.5,SouthPAWGames,"Action,Platformer,2D",No Online Multiplayer,22,35
-Football Manager 2017,PC,"November 4, 2016",80,5.4,SportsInteractive,"Sports,Team,Soccer,Management",No info,47,129
-Super Time Force,XboxOne,"May 14, 2014",80,6.5,CapyGames,"Action,Platformer,Shooter,2D,Scrolling,Shoot-'Em-Up,Vertical",No info,36,118
-SoulCalibur VI,PC,"October 18, 2018",80,5.2,"BandaiNamcoGames,ProjectSoul","Action,Fighting,3D",2 ,17,162
-Mutazione,PC,"September 19, 2019",80,7.3,DieGuteFabrik,"Adventure,Point-and-Click",No Online Multiplayer,7,21
-SpellForce 3: Soul Harvest,PC,"May 28, 2019",80,8.4,GrimloreGames,"Strategy,Real-Time,Tactics",Online Multiplayer,7,37
-King's Quest Chapter 3: Once Upon a Climb,XboxOne,"April 26, 2016",80,5.7,TheOddGentlemen,"Adventure,General",No info,8,10
-Life is Strange: Episode 5 - Polarized,XboxOne,"October 20, 2015",80,8.3,DONTNODEntertainment,"Action Adventure,General",No info,7,87
-Westerado: Double Barreled,PC,"April 16, 2015",80,7.7,OstrichBanditos,"Action,General",No Online Multiplayer,18,43
+Tom Clancy's Ghost Recon,PC,"November 13, 2001",80,7.6,RedStormEntertainment,"Action,Shooter,Shooter,First-Person,Tactical,Modern,Modern",No info,19,80

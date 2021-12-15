@@ -1,11 +1,8 @@
 name,platform,r-date,score,user score,developer,genre,players,critics,users
-Pikmin 3,WiiU,"August 4, 2013",87,8.7,Nintendo,"Strategy,Real-Time,Fantasy,General,Fantasy",1-2 ,79,784
-Sunless Skies,PC,"January 31, 2019",87,6.9,FailbetterGames,"Action Adventure,General",No Online Multiplayer,30,73
-Total War: WARHAMMER II,PC,"September 28, 2017",87,7.9,CreativeAssembly,"Strategy,Real-Time,Tactics",Online Multiplayer,69,515
-NHL 2004,PC,"September 22, 2003",87,7.5,EASports,"Sports,Traditional,Team,Ice Hockey,Sim,Sim",1-12 ,12,54
+NHL 2004,PC,"September 22, 2003",87,7.5,EASports,"Sports,Traditional,Team,Ice Hockey,Sim,Sim",1-12 ,12,55
 SSX Tricky,GameCube,"December 2, 2001",87,8.5,EASportsBig,"Sports,Alternative,Snowboarding",1-2 ,20,24
 Zeus: Master of Olympus,PC,"October 22, 2000",87,8.7,ImpressionsGames,"Strategy,General,General,Management,Government",No Online Multiplayer,23,86
-Driver,PlayStation,"June 30, 1999",87,8.0,ReflectionsInteractive,"Driving,Mission-based",1 Player,22,143
+Driver,PlayStation,"June 30, 1999",87,8.0,ReflectionsInteractive,"Driving,Mission-based",1 Player,22,144
 Spelunky 2,PlayStation4,"September 15, 2020",87,8.1,"Mossmouth,Bitworks","Action,Platformer,2D",Up to 4 ,41,68
 Fight Night Round 2,GameCube,"February 28, 2005",87,8.1,EASports,"Sports,Traditional,Boxing",2  Online,32,10
 Dark Souls II: Crown of the Ivory King,PlayStation3,"September 30, 2014",87,8.4,NamcoBandaiGames,"Role-Playing,Action RPG",No info,10,72
@@ -14,38 +11,39 @@ There is no game : Wrong dimension,Switch,"April 14, 2021",87,8.0,DrawMeAPixel,"
 Puzzle Quest: Challenge of the Warlords,Xbox360,"October 10, 2007",87,8.2,InfiniteInteractive,"Miscellaneous,Puzzle,Puzzle,Puzzle,Matching,Matching",2  Online,29,40
 Forza Horizon 3: Hot Wheels,XboxOne,"May 9, 2017",87,7.7,PlaygroundGames,"Racing,Simulation,Automobile",No info,13,104
 Hex: Shards of Fate,PC,"January 26, 2016",87,6.3,"CryptozoicEntertainment,HexEntertainment","Miscellaneous,Card Battle,Strategy,Turn-Based,Card Battle",Online Multiplayer,7,110
-World of Warcraft: Warlords of Draenor,PC,"November 13, 2014",87,4.9,BlizzardEntertainment,"Role-Playing,Massively Multiplayer Online,Massively Multiplayer,Fantasy",Massively Multiplayer,49,1648
-LittleBigPlanet,PSP,"November 17, 2009",87,7.8,"SCE/WWS,MediaMolecule","Action,Platformer,Platformer,3D,2D,3D",1-4 ,68,131
+World of Warcraft: Warlords of Draenor,PC,"November 13, 2014",87,4.7,BlizzardEntertainment,"Role-Playing,Miscellaneous,Massively Multiplayer Online,Massively Multiplayer,Board / Card Game,Fantasy",Massively Multiplayer,49,1700
+LittleBigPlanet,PSP,"November 17, 2009",87,7.9,"SCE/WWS,MediaMolecule","Action,Platformer,Platformer,3D,2D,3D",1-4 ,68,132
 Okami HD,XboxOne,"December 12, 2017",87,8.4,Capcom,"Action Adventure,General",No Online Multiplayer,14,72
-PixelJunk Shooter,PlayStation3,"December 10, 2009",87,8.0,Q-Games,"Action,Shooter,Shooter,Static,Static,Shoot-'Em-Up,Top-Down",No info,50,58
-"Warhammer 40,000: Dawn of War - Dark Crusade",PC,"October 9, 2006",87,8.9,Relic,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General",8  Online,34,378
+PixelJunk Shooter,PlayStation3,"December 10, 2009",87,8.1,Q-Games,"Action,Shooter,Shooter,Static,Static,Shoot-'Em-Up,Top-Down",No info,50,59
+"Warhammer 40,000: Dawn of War - Dark Crusade",PC,"October 9, 2006",87,8.9,Relic,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General",8  Online,34,385
 Dark Cloud 2,PlayStation2,"February 17, 2003",87,8.6,Level5,"Role-Playing,Action RPG",1 Player,41,223
-GRID,Xbox360,"June 3, 2008",87,7.8,Codemasters,"Driving,Racing,Simulation,GT / Street,GT / Street,Automobile",Up to 12 ,62,139
+GRID,Xbox360,"June 3, 2008",87,7.9,Codemasters,"Driving,Racing,Simulation,GT / Street,GT / Street,Automobile",Up to 12 ,62,140
 West of Loathing,PC,"August 10, 2017",87,7.7,AsymmetricPublications,"Role-Playing,General",No Online Multiplayer,14,84
 Tom Clancy's Splinter Cell Pandora Tomorrow,PlayStation2,"June 16, 2004",87,8.2,UbisoftShanghai,"Action Adventure,Modern",1-4 ,45,51
-Iconoclasts,PC,"January 23, 2018",87,8.0,"JoakimSandberg,Konjak","Action Adventure,Open-World",No Online Multiplayer,21,106
-Kingdom Hearts II,PlayStation2,"March 28, 2006",87,9.0,SquareEnix,"Role-Playing,Action RPG",1 Player,64,1360
-Iconoclasts,Switch,"August 2, 2018",87,7.9,"JoakimSandberg,MP2Games","Action Adventure,Open-World",No Online Multiplayer,9,69
-Fallout 4,PlayStation4,"November 10, 2015",87,6.7,BethesdaGameStudios,"General,Role-Playing,Western-Style",No Online Multiplayer,58,5694
+Iconoclasts,PC,"January 23, 2018",87,8.0,"JoakimSandberg,Konjak","Action Adventure,Open-World",No Online Multiplayer,21,107
+Kingdom Hearts II,PlayStation2,"March 28, 2006",87,9.0,SquareEnix,"Role-Playing,Action RPG",1 Player,64,1369
+Iconoclasts,Switch,"August 2, 2018",87,7.9,"JoakimSandberg,MP2Games","Action Adventure,Open-World",No Online Multiplayer,9,71
+Fallout 4,PlayStation4,"November 10, 2015",87,6.7,BethesdaGameStudios,"General,Role-Playing,Western-Style",No Online Multiplayer,58,5722
 NBA 2K14,Xbox360,"October 1, 2013",87,5.0,VisualConcepts,"Sports,Traditional,Team,Basketball,Sim,Sim",Up to 10 ,23,158
 Bayonetta,PlayStation3,"January 5, 2010",87,7.7,"PlatinumGames,NexEntertainment","Action,Action Adventure,Beat-'Em-Up,Fantasy,Beat-'Em-Up,Linear",No Online Multiplayer,54,449
-Ratchet & Clank Future: A Crack in Time,PlayStation3,"October 27, 2009",87,8.8,InsomniacGames,"Action,Platformer,Platformer,3D,3D",No Online Multiplayer,85,600
+Ratchet & Clank Future: A Crack in Time,PlayStation3,"October 27, 2009",87,8.8,InsomniacGames,"Action,Platformer,Platformer,3D,3D",No Online Multiplayer,85,602
 ESPN NBA Basketball,Xbox,"October 22, 2003",87,7.6,VisualConcepts,"Sports,Traditional,Basketball,Sim",1-8 ,18,27
 MotoGP 2,Xbox,"May 21, 2003",87,7.5,ClimaxGroup,"Driving,Racing,Motorcycle,Street",1-16 ,23,12
 Guilty Gear X2,PlayStation2,"February 3, 2003",87,8.7,ArcSystemWorks,"Action,Fighting,2D",1-2 ,31,45
-Sonic Advance,GameBoyAdvance,"February 3, 2002",87,7.9,SonicTeam,"Action,Platformer,2D",No info,22,105
-Half-Life,PlayStation2,"November 11, 2001",87,8.6,GearboxSoftware,"Action,Shooter,First-Person,Sci-Fi",1-2 ,24,150
-Commandos 2: Men of Courage,PC,"September 20, 2001",87,8.8,PyroStudios,"Strategy,Real-Time,Military,General,Military",1 Player,17,280
-Spider-Man,PlayStation,"August 30, 2000",87,8.6,NeversoftEntertainment,"Action Adventure,Sci-Fi",1 Player,19,260
-Tenchu: Stealth Assassins,PlayStation,"August 31, 1998",87,8.8,Acquire,"Action Adventure,Fantasy",1 Player,14,90
-Shin Megami Tensei: Persona 3,PlayStation2,"August 14, 2007",86,6.3,AtlusCo.,"Role-Playing,Console-style RPG",1 Player,52,425
-PixelJunk Monsters Deluxe,PSP,"September 30, 2009",86,7.9,Q-Games,"Strategy,Real-Time,Fantasy,Fantasy,Defense",2  Online,27,38
-Forza Horizon 3,PC,"September 27, 2016",86,7.1,PlaygroundGames,"Racing,Simulation,Automobile",No info,12,423
-Tales From The Borderlands: Episode 5 - The Vault of the Traveler,PC,"October 20, 2015",86,8.6,TelltaleGames,"Adventure,General",No Online Multiplayer,32,307
+Sonic Advance,GameBoyAdvance,"February 3, 2002",87,7.9,SonicTeam,"Action,Platformer,2D",No info,22,106
+Half-Life,PlayStation2,"November 11, 2001",87,8.6,GearboxSoftware,"Action,Shooter,First-Person,Sci-Fi",1-2 ,24,151
+Commandos 2: Men of Courage,PC,"September 20, 2001",87,8.8,PyroStudios,"Strategy,Real-Time,Military,General,Military",1 Player,17,281
+Spider-Man,PlayStation,"August 30, 2000",87,8.6,NeversoftEntertainment,"Action Adventure,Sci-Fi",1 Player,19,261
+Tenchu: Stealth Assassins,PlayStation,"August 31, 1998",87,8.7,Acquire,"Action Adventure,Fantasy",1 Player,14,91
+Halo Infinite,XboxSeriesX,"December 8, 2021",86,8.5,343Industries,"Action,Shooter,First-Person,Arcade",No info,86,3409
+Shin Megami Tensei: Persona 3,PlayStation2,"August 14, 2007",86,6.4,AtlusCo.,"Role-Playing,Console-style RPG",1 Player,52,426
+PixelJunk Monsters Deluxe,PSP,"September 30, 2009",86,7.9,Q-Games,"Strategy,Real-Time,Fantasy,Fantasy,Defense",2  Online,27,39
+Forza Horizon 3,PC,"September 27, 2016",86,7.0,PlaygroundGames,"Racing,Simulation,Automobile",No info,12,437
+Tales From The Borderlands: Episode 5 - The Vault of the Traveler,PC,"October 20, 2015",86,8.6,TelltaleGames,"Adventure,General",No Online Multiplayer,32,309
 Unreal Tournament III,PlayStation3,"December 11, 2007",86,7.7,EpicGames,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",Up to 16 ,42,133
 LostWinds: Winter of the Melodias,Wii,"October 19, 2009",86,3.3,FrontierDevelopments,"Action,Platformer,Platformer,3D,3D",No info,33,100
 Thumper,XboxOne,"August 18, 2017",86,5.5,"droolGames,Drool","Action,Rhythm,Music",No info,7,11
-Bastion,PC,"August 16, 2011",86,8.5,SupergiantGames,"Action,Role-Playing,General,Action RPG,Action RPG",No Online Multiplayer,17,1583
+Bastion,PC,"August 16, 2011",86,8.5,SupergiantGames,"Action,Role-Playing,General,Action RPG,Action RPG",No Online Multiplayer,17,1589
 The Witness,XboxOne,"September 13, 2016",86,7.2,"Thekla,Inc","Adventure,3D,First-Person",No info,11,65
 Gone Home,PC,"August 15, 2013",86,5.4,TheFullbrightCompany,"Sci-Fi,Sci-Fi,Adventure,3D,First-Person",No Online Multiplayer,56,2206
 Bustafellows,Switch,"July 30, 2021",86,5.6,eXtend,"Adventure,Visual Novel",No Online Multiplayer,7,7
@@ -53,49 +51,51 @@ Pac-Man Championship Edition DX +,PC,"September 24, 2013",86,7.6,NamcoBandaiGame
 Kirby's Epic Yarn,Wii,"October 17, 2010",86,8.5,Good-Feel,"Adventure,General,Action,Platformer,Platformer,2D,2D",No info,70,281
 Bomberman Blast,Wii,"September 29, 2008",86,7.6,Hudson,"Miscellaneous,Puzzle,Action,General,Puzzle,Action",8  Online,8,26
 DJ Hero 2,PlayStation3,"October 19, 2010",86,7.9,FreeStyleGames,"Action,Miscellaneous,Rhythm,Music,Music",No info,46,27
-Uncharted: The Nathan Drake Collection,PlayStation4,"October 9, 2015",86,8.5,BluepointGames,"Miscellaneous,Action Adventure,General,Compilation",No Online Multiplayer,78,2999
+Uncharted: The Nathan Drake Collection,PlayStation4,"October 9, 2015",86,8.5,BluepointGames,"Miscellaneous,Action Adventure,General,Compilation",No Online Multiplayer,78,3043
 The Elder Scrolls IV: Shivering Isles,Xbox360,"March 26, 2007",86,8.5,BethesdaSoftworks,"Role-Playing,First-Person,First-Person,Western-Style",1 Player,45,99
-Rocket League,Switch,"November 14, 2017",86,7.8,Psyonix,"Sports,Team,Soccer,Arcade",Up to 8 ,32,347
-Supreme Commander,PC,"February 20, 2007",86,8.3,GasPoweredGames,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General,Command",8  Online,44,328
-Tales from the Borderlands: A Telltale Game Series,PlayStation4,"October 20, 2015",86,8.2,TelltaleGames,"Adventure,General",No Online Multiplayer,8,544
+Rocket League,Switch,"November 14, 2017",86,7.8,Psyonix,"Sports,Team,Soccer,Arcade",Up to 8 ,32,348
+Supreme Commander,PC,"February 20, 2007",86,8.3,GasPoweredGames,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General,Command",8  Online,44,332
+Tales from the Borderlands: A Telltale Game Series,PlayStation4,"October 20, 2015",86,8.2,TelltaleGames,"Adventure,General",No Online Multiplayer,8,552
 Total War: Shogun 2 - Fall of the Samurai,PC,"March 22, 2012",86,8.4,CreativeAssembly,"Strategy,Turn-Based,Historic,General,Historic",No info,45,407
-Startopia,PC,"June 19, 2001",86,8.7,MuckyFootProductions,"Strategy,General,General,Management,Government",No Online Multiplayer,14,72
+Startopia,PC,"June 19, 2001",86,8.6,MuckyFootProductions,"Strategy,General,General,Management,Government",No Online Multiplayer,14,73
 NBA Live 2001,PlayStation,"October 16, 2000",86,7.1,EASports,"Sports,Traditional,Basketball,Sim",1-8 ,10,10
 Enemy Engaged: RAH-66 Comanche Versus Ka-52 Hokum,PC,"July 31, 2000",86,7.3,Razorworks,"Simulation,Flight,Helicopter,Helicopter,Combat,Civilian",Up to 16 ,11,18
-Silent Hill,PlayStation,"January 31, 1999",86,8.9,KCET,"Action Adventure,Horror",1 Player,17,737
-Fallout 2,PC,"October 29, 1998",86,9.2,BlackIsleStudios,"Role-Playing,First-Person,First-Person,PC-style RPG,Western-Style",No Online Multiplayer,15,1527
-Oddworld: Abe's Oddysee - New 'n' Tasty,PC,"February 25, 2015",86,7.7,JustAddWater,"Action,Platformer,Platformer,2D,2D",No Online Multiplayer,13,183
+Silent Hill,PlayStation,"January 31, 1999",86,8.9,KCET,"Action Adventure,Horror",1 Player,17,747
+Fallout 2,PC,"October 29, 1998",86,9.1,BlackIsleStudios,"Role-Playing,First-Person,First-Person,PC-style RPG,Western-Style",No Online Multiplayer,15,1539
+Oddworld: Abe's Oddysee - New 'n' Tasty,PC,"February 25, 2015",86,7.7,JustAddWater,"Action,Platformer,Platformer,2D,2D",No Online Multiplayer,13,184
 Kirby: Canvas Curse,DS,"June 13, 2005",86,7.8,HALLabs,"Action,Platformer,Platformer,2D,2D",1 Player,48,105
-Burnout Legends,PSP,"September 13, 2005",86,8.6,CriterionGames,"Driving,Racing,Arcade,Arcade,Automobile",1-4 ,53,138
-Final Fantasy XIV: Heavensward,PC,"June 23, 2015",86,8.8,SquareEnix,"Massively Multiplayer Online,Fantasy,Role-Playing,Massively Multiplayer",Massively Multiplayer,14,607
+Burnout Legends,PSP,"September 13, 2005",86,8.6,CriterionGames,"Driving,Racing,Arcade,Arcade,Automobile",1-4 ,53,140
+Final Fantasy XIV: Heavensward,PC,"June 23, 2015",86,8.9,SquareEnix,"Massively Multiplayer Online,Fantasy,Role-Playing,Massively Multiplayer",Massively Multiplayer,14,687
 Football Manager 2013,PC,"November 1, 2012",86,6.9,SportsInteractive,"Sports,Traditional,Team,Soccer,Management,Management",No info,37,266
 Out of the Park Baseball 14,PC,"April 15, 2013",86,8.2,OutOfTheParkDevelopments,"Sports,Traditional,Baseball,Management,Management",1 Player,8,64
 ESPN NHL 2K5,PlayStation2,"August 30, 2004",86,8.1,KushGames,"Sports,Traditional,Ice Hockey,Sim",10  Online,25,19
-DiRT Rally,XboxOne,"April 5, 2016",86,7.9,Codemasters,"Racing,Simulation,Automobile",No info,17,86
-The Witcher: Enhanced Edition,PC,"September 16, 2008",86,8.5,CDProjektRedStudio,"Role-Playing,Action RPG,Action RPG",No Online Multiplayer,30,2887
-UFC Undisputed 3,PlayStation3,"February 14, 2012",86,7.5,Yuke's,"Action,Sports,Fighting,Fighting,Individual,Wrestling,Combat,Wrestling",2 ,30,108
+DiRT Rally,XboxOne,"April 5, 2016",86,7.9,Codemasters,"Racing,Simulation,Automobile",No info,17,87
+The Witcher: Enhanced Edition,PC,"September 16, 2008",86,8.4,CDProjektRedStudio,"Role-Playing,Action RPG,Action RPG",No Online Multiplayer,30,2926
+UFC Undisputed 3,PlayStation3,"February 14, 2012",86,7.4,Yuke's,"Action,Sports,Fighting,Fighting,Individual,Wrestling,Combat,Wrestling",2 ,30,110
 Borderlands: The Secret Armory of General Knoxx,PC,"February 25, 2010",86,7.0,GearboxSoftware,"Action,Shooter,Shooter,First-Person,Sci-Fi,Sci-Fi,Arcade",No info,7,102
-Call of Duty 2,PC,"October 25, 2005",86,8.5,InfinityWard,"Action,Shooter,Shooter,First-Person,Historic,Historic,Arcade",Up to 64 ,64,1032
-F1 2017,PlayStation4,"August 25, 2017",86,7.5,Codemasters,"Racing,Simulation,Automobile",Up to 20 ,41,88
-Crash Bandicoot 4: It's About Time,PlayStation5,"March 12, 2021",86,8.1,ToysforBob,"Action,Platformer,3D",No Online Multiplayer,21,97
+Call of Duty 2,PC,"October 25, 2005",86,8.5,InfinityWard,"Action,Shooter,Shooter,First-Person,Historic,Historic,Arcade",Up to 64 ,64,1044
+F1 2017,PlayStation4,"August 25, 2017",86,7.5,Codemasters,"Racing,Simulation,Automobile",Up to 20 ,41,89
+Crash Bandicoot 4: It's About Time,PlayStation5,"March 12, 2021",86,8.0,ToysforBob,"Action,Platformer,3D",No Online Multiplayer,21,103
 Astebreed,PC,"May 30, 2014",86,7.4,Edelweiss,"Action,Shooter,Scrolling,Shoot-'Em-Up,Vertical,Horizontal",No Online Multiplayer,14,129
 Winning Eleven: Pro Evolution Soccer 2007,PlayStation2,"February 6, 2007",86,8.9,Konami,"Sports,Traditional,Soccer,Sim",8  Online,19,52
 Sid Meier's Civilization VI,XboxOne,"November 22, 2019",86,6.7,Aspyr,"Strategy,Turn-Based,4X",No Online Multiplayer,12,32
 NASCAR 2005: Chase for the Cup,Xbox,"August 31, 2004",86,tbd,EATiburon,"Driving,Racing,Stock Car",1-2 ,16,0
-Onimusha: Warlords,PlayStation2,"March 13, 2001",86,8.2,Capcom,"Action Adventure,Fantasy",1 Player,23,122
+Onimusha: Warlords,PlayStation2,"March 13, 2001",86,8.2,Capcom,"Action Adventure,Fantasy",1 Player,23,123
 Ground Control,PC,"June 1, 2000",86,7.5,MassiveEntertainment,"Strategy,Real-Time,Sci-Fi,Sci-Fi,General,Tactics",Up to 8 ,26,46
-Cuphead,XboxOne,"September 29, 2017",86,8.4,StudioMDHR,"Action,Platformer,2D",No Online Multiplayer,72,889
-Velocity 2X,PlayStation4,"September 2, 2014",86,6.9,FuturLab,"Action,General,Shooter,Scrolling,Shoot-'Em-Up,Vertical",No info,38,329
+Cuphead,XboxOne,"September 29, 2017",86,8.4,StudioMDHR,"Action,Platformer,2D",No Online Multiplayer,72,893
+Velocity 2X,PlayStation4,"September 2, 2014",86,7.0,FuturLab,"Action,General,Shooter,Scrolling,Shoot-'Em-Up,Top-Down,Vertical",No info,38,330
 Killer Instinct Season 3,XboxOne,"March 29, 2016",86,6.6,IronGalaxyStudios,"Action,Fighting,2D",No info,14,149
-Valkyria Chronicles,PlayStation3,"November 4, 2008",86,8.8,Sega,"Role-Playing,Strategy,Action RPG,Turn-Based,General,General,Historic,Tactics",No Online Multiplayer,60,495
+Valkyria Chronicles,PlayStation3,"November 4, 2008",86,8.7,Sega,"Role-Playing,Strategy,Action RPG,Turn-Based,General,General,Historic,Tactics",No Online Multiplayer,60,497
 Pillars of Eternity: Complete Edition,XboxOne,"August 29, 2017",86,7.7,"ObsidianEntertainment,ParadoxArctic","Role-Playing,Western-Style",No Online Multiplayer,11,40
 Shovel Knight,XboxOne,"April 21, 2015",86,7.5,YachtClubGames,"Action,Platformer,2D",No info,10,67
+Mass Effect Legendary Edition,PlayStation4,"May 14, 2021",86,5.8,BioWare,"Miscellaneous,Compilation",No Online Multiplayer,45,586
 Overboard!,Switch,"June 2, 2021",86,8.0,inkle,"Adventure,General",No Online Multiplayer,15,5
-The Messenger,Switch,"August 30, 2018",86,8.4,SabotageStudio,"Action,Platformer,2D",No Online Multiplayer,42,198
-Resistance: Fall of Man,PlayStation3,"November 14, 2006",86,8.1,InsomniacGames,"Action,Shooter,Shooter,First-Person,Sci-Fi,Modern,Sci-Fi,Arcade",Up to 40 ,70,848
-Boom Blox Bash Party,Wii,"May 19, 2009",86,7.8,EALA,"Miscellaneous,Puzzle,Puzzle,General,Puzzle,General",No info,48,44
+The Messenger,Switch,"August 30, 2018",86,8.4,SabotageStudio,"Action,Platformer,2D",No Online Multiplayer,42,200
+Resistance: Fall of Man,PlayStation3,"November 14, 2006",86,8.1,InsomniacGames,"Action,Shooter,Shooter,First-Person,Sci-Fi,Modern,Sci-Fi,Arcade",Up to 40 ,70,849
+Boom Blox Bash Party,Wii,"May 19, 2009",86,7.8,EALA,"Miscellaneous,Puzzle,Puzzle,General,Puzzle,General",No info,48,45
 Kentucky Route Zero,PC,"February 22, 2013",86,7.4,CardboardComputer,"Adventure,General,General",No Online Multiplayer,10,55
-Stardew Valley,PlayStation4,"December 13, 2016",86,7.9,"SickheadGames,LLC,EricBarone,SickheadGames","Role-Playing,General",No Online Multiplayer,11,236
-Rise of the Tomb Raider,PC,"January 28, 2016",86,7.9,"CrystalDynamics,NixxesSoftware","Action Adventure,General,Linear",No Online Multiplayer,45,1779
+Stardew Valley,PlayStation4,"December 13, 2016",86,8.0,"SickheadGames,LLC,EricBarone,SickheadGames","Role-Playing,General",No Online Multiplayer,11,240
+Rise of the Tomb Raider,PC,"January 28, 2016",86,7.9,"CrystalDynamics,NixxesSoftware","Action Adventure,General,Linear",No Online Multiplayer,45,1797
 NBA 2K14,XboxOne,"November 12, 2013",86,5.7,VisualConcepts,"Sim,Sports,Traditional,Team,Basketball,Sim",Up to 10 ,15,186
-The Forgotten City,XboxSeriesX,"July 28, 2021",86,8.1,ModernStoryteller,"Action Adventure,General",No Online Multiplayer,9,23
+The Forgotten City,XboxSeriesX,"July 28, 2021",86,8.2,ModernStoryteller,"Action Adventure,General",No Online Multiplayer,9,31
+Total War: WARHAMMER,PC,"May 24, 2016",86,7.4,CreativeAssembly,"Strategy,Turn-Based,General",No info,77,804

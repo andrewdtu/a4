@@ -1,21 +1,30 @@
 name,platform,r-date,score,user score,developer,genre,players,critics,users
+Rally Trophy,PC,"November 20, 2001",82,7.0,Bugbear,"Driving,Racing,Simulation,Rally / Offroad,Rally / Offroad,Automobile",1-6 ,8,21
+GT Advance Championship Racing,GameBoyAdvance,"June 8, 2001",82,8.2,MTO,"Driving,Racing,GT / Street",1-2 ,10,5
+Ridge Racer 64,Nintendo64,"February 14, 2000",82,8.4,Nintendo,"Driving,Racing,Arcade",1-4 ,12,23
+Pokemon Alpha Sapphire,3DS,"November 21, 2014",82,7.5,GameFreak,"Role-Playing,Console-style RPG,Japanese-Style,Trainer",Up to 4 ,52,768
+Chivalry 2,PC,"June 8, 2021",82,5.1,TornBannerStudios,"Action,Beat-'Em-Up,3D",Up to 64 ,38,117
+Nuclear Throne,PlayStation4,"December 5, 2015",82,6.3,Vlambeer,"General,Action,General,Shooter,Shoot-'Em-Up,Top-Down",No info,14,48
+Rock Band,PlayStation2,"December 18, 2007",82,6.9,HarmonixMusicSystems,"Miscellaneous,Rhythm,Music",1-4 ,8,15
+Stealth Inc 2: A Game of Clones,XboxOne,"April 3, 2015",82,6.3,CurveDigital,"Action,Platformer,2D",No info,7,11
+Wreckfest,PlayStation4,"August 27, 2019",82,7.0,Bugbear,"Racing,General,Arcade,Automobile",Up to 16 ,23,170
+Dark Souls III: The Ringed City,PC,"March 28, 2017",82,8.3,FromSoftware,"Role-Playing,Action RPG",No info,22,254
 Dawn of Discovery,PC,"June 17, 2009",82,8.8,"BlueByte,RelatedDesigns","Strategy,Real-Time,Historic,General,Historic",No Online Multiplayer,32,152
 Pinball FX3,Switch,"December 12, 2017",82,7.8,ZenStudios,"Action,Pinball",No Online Multiplayer,18,52
-Hitman 2,PC,"November 13, 2018",82,7.5,IoInteractive,"Action Adventure,General",2 ,22,371
+Hitman 2,PC,"November 13, 2018",82,7.5,IoInteractive,"Action Adventure,General",2 ,22,376
 Hot Shots Golf: Open Tee 2,PSP,"June 3, 2008",82,8.1,ClapHanz,"Sports,Traditional,Individual,Golf,Arcade,Arcade",1-8 ,42,14
-Streets of Rage 4,XboxOne,"April 30, 2020",82,7.9,"BlitWorks,Lizardcube","Action,Beat-'Em-Up,2D",2 ,9,163
-Outer Wilds,PlayStation4,"October 15, 2019",82,7.7,"MobiusDigital,LLC","Action Adventure,Open-World",No Online Multiplayer,8,179
+Dreamscaper,Switch,"August 5, 2021",82,6.1,AfterburnerStudios,"Role-Playing,Action RPG",No info,11,7
+Streets of Rage 4,XboxOne,"April 30, 2020",82,7.9,"BlitWorks,Lizardcube","Action,Beat-'Em-Up,2D",2 ,9,164
+Outer Wilds,PlayStation4,"October 15, 2019",82,7.7,"MobiusDigital,LLC","Action Adventure,Open-World",No Online Multiplayer,8,180
 SingStar (2008),PlayStation3,"May 20, 2008",82,6.1,SCEELondonStudio,"Action,Miscellaneous,Rhythm,Music,Music",1-8 ,48,16
 The Sexy Brutale,XboxOne,"April 11, 2017",82,7.1,"AbstractionGames,TequilaWorks,CavalierGameStudios","Adventure,General",No info,13,14
 FIFA 07 Soccer,PlayStation2,"October 3, 2006",82,7.8,TeamFusion,"Sports,Traditional,Soccer,Sim",4  Online,25,69
-Child of Light,XboxOne,"April 30, 2014",82,7.7,UbisoftMontreal,"Action,General,General,Role-Playing,General",No info,32,274
-L.A. Noire: The VR Case Files,PC,"December 15, 2017",82,6.5,RockstarGames,"Adventure,3D,First-Person",No Online Multiplayer,26,25
+Child of Light,XboxOne,"April 30, 2014",82,7.7,UbisoftMontreal,"Action,General,General,Role-Playing,General",No info,32,276
+L.A. Noire: The VR Case Files,PC,"December 15, 2017",82,6.2,RockstarGames,"Adventure,3D,First-Person",No Online Multiplayer,26,26
 City of Villains,PC,"October 31, 2005",82,7.6,ParagonStudios,"Role-Playing,Massively Multiplayer Online,Modern,Modern",Massively Multiplayer,40,41
 Cave Story 3D,3DS,"November 8, 2011",82,8.1,Nicalis,"Action,Platformer,Platformer,2D,2D",No Online Multiplayer,29,71
-Life is Strange: True Colors,PC,"September 10, 2021",82,6.7,DeckNineGames,"Action Adventure,General",No info,24,158
-Eastward,PC,"September 16, 2021",82,7.1,Pixpil,"Role-Playing,General",No Online Multiplayer,33,63
-The Banner Saga 2,PC,"April 19, 2016",82,8.3,Stoic,"Role-Playing,General,Strategy,Turn-Based,Tactics",No Online Multiplayer,60,188
-Kaze and the Wild Masks,PC,"March 26, 2021",82,7.7,"VoxGameStudio,PixelHive","Action,General,Platformer,2D",No Online Multiplayer,8,38
+The Banner Saga 2,PC,"April 19, 2016",82,8.3,Stoic,"Role-Playing,General,Strategy,Turn-Based,Tactics",No Online Multiplayer,60,191
+Kaze and the Wild Masks,PC,"March 26, 2021",82,7.8,"VoxGameStudio,PixelHive","Action,General,Platformer,2D",No Online Multiplayer,8,40
 The Wolf Among Us: Episode 2 - Smoke and Mirrors,PlayStation3,"February 4, 2014",82,8.1,TelltaleGames,"Action Adventure,Adventure,General,Fantasy,Point-and-Click",No info,9,87
 LEGO Marvel Super Heroes,WiiU,"October 22, 2013",82,8.0,TTGames,"Action Adventure,Fantasy,General,Fantasy,Open-World",No Online Multiplayer,8,80
 Kentucky Route Zero - Act II,PC,"May 31, 2013",82,7.6,CardboardComputer,"Adventure,General,General",No info,7,51
@@ -25,17 +34,17 @@ Dead Space: Extraction,Wii,"September 29, 2009",82,7.9,"EurocomEntertainmentSoft
 NBA 2K10,Xbox360,"October 6, 2009",82,7.5,VisualConcepts,"Sports,Traditional,Team,Basketball,Sim,Sim",Up to 10 ,46,35
 Project CARS 2,PlayStation4,"September 22, 2017",82,6.0,"BandaiNamcoGames,SlightlyMadStudios","Racing,Simulation,Automobile",Up to 16 ,44,196
 NBA Ballers,Xbox,"April 5, 2004",82,7.3,Midway,"Sports,Traditional,Basketball,Arcade",1-3 ,35,10
-Shadow of the Tomb Raider,XboxOne,"September 12, 2018",82,7.3,EidosMontreal,"Action Adventure,General",2 ,56,528
-Katamari Damacy REROLL,PlayStation4,"November 20, 2020",82,6.0,BandaiNamcoGames,"Action Adventure,General",No Online Multiplayer,21,16
-Football Manager 2018,PC,"November 10, 2017",82,6.1,SportsInteractive,"Sports,Team,Football,Sim",Online Multiplayer,33,104
-Resident Evil: Revelations,3DS,"February 7, 2012",82,8.5,Capcom,"Action Adventure,Horror,Horror,Survival",2 ,78,514
-Tom Clancy's Splinter Cell: Blacklist,PC,"August 20, 2013",82,7.5,UbisoftToronto,"Action Adventure,Modern,General,Modern",No info,13,927
+Shadow of the Tomb Raider,XboxOne,"September 12, 2018",82,7.3,EidosMontreal,"Action Adventure,General",2 ,56,533
+Katamari Damacy REROLL,PlayStation4,"November 20, 2020",82,6.4,BandaiNamcoGames,"Action Adventure,General",No Online Multiplayer,21,18
+Football Manager 2018,PC,"November 10, 2017",82,6.0,SportsInteractive,"Sports,Team,Football,Sim",Online Multiplayer,33,105
+Resident Evil: Revelations,3DS,"February 7, 2012",82,8.5,Capcom,"Action Adventure,Horror,Horror,Survival",2 ,78,515
+Tom Clancy's Splinter Cell: Blacklist,PC,"August 20, 2013",82,7.5,UbisoftToronto,"Action Adventure,Modern,General,Modern",No info,13,932
 You Don't Know Jack,Xbox360,"February 8, 2011",82,7.9,"Jellyvision,IronGalaxyStudios","Miscellaneous,Trivia / Game Show,Trivia / Game Show",Up to 4 ,23,29
-Gears Tactics,XboxSeriesX,"November 10, 2020",82,7.6,SplashDamage,"Strategy,Turn-Based,Tactics",No Online Multiplayer,14,96
-Sam & Max Save the World Remastered,PC,"December 2, 2020",82,4.9,SkunkapeGames,"Adventure,Point-and-Click",No Online Multiplayer,13,33
-SUPERHOT,PC,"February 25, 2016",82,7.6,SUPERHOT,"Modern,Action,Shooter,First-Person,Tactical",No Online Multiplayer,93,617
+Gears Tactics,XboxSeriesX,"November 10, 2020",82,7.6,SplashDamage,"Strategy,Turn-Based,Tactics",No Online Multiplayer,14,98
+Sam & Max Save the World Remastered,PC,"December 2, 2020",82,5.2,SkunkapeGames,"Adventure,Point-and-Click",No Online Multiplayer,13,36
+SUPERHOT,PC,"February 25, 2016",82,7.6,SUPERHOT,"Modern,Action,Shooter,First-Person,Tactical",No Online Multiplayer,93,620
 LEGO Marvel Super Heroes,PlayStation3,"October 22, 2013",82,7.8,TTGames,"Action Adventure,Fantasy,General,Fantasy,Open-World",No Online Multiplayer,22,96
-Pokemon Ruby Version,GameBoyAdvance,"March 18, 2003",82,8.6,GameFreak,"Role-Playing,Console-style RPG",1-4 ,30,315
+Pokemon Ruby Version,GameBoyAdvance,"March 18, 2003",82,8.6,GameFreak,"Role-Playing,Console-style RPG",1-4 ,30,323
 MVP Baseball 2003,Xbox,"March 10, 2003",82,7.7,EASports,"Sports,Traditional,Baseball,Sim",1-2 ,18,11
 NHL Hitz 20-03,GameCube,"September 16, 2002",82,8.6,Midway,"Sports,Traditional,Ice Hockey,Arcade",1-4 ,12,8
 Gitaroo Man,PlayStation2,"February 19, 2002",82,8.7,Koei/Inis,"Miscellaneous,Rhythm,Music",1-4 ,21,28
@@ -44,58 +53,49 @@ Dave Mirra Freestyle BMX,PlayStation,"September 26, 2000",82,7.1,"Z-Axis,Ltd.","
 Karaoke Revolution Volume 3,PlayStation2,"November 9, 2004",82,7.8,HarmonixMusicSystems,"Miscellaneous,Rhythm,Music",1-8 ,25,10
 Dawn of Discovery,DS,"June 17, 2009",82,7.3,KeenGames,"Simulation,Strategy,Real-Time,General,General,Historic",No info,11,8
 Professor Layton and the Miracle Mask,3DS,"October 28, 2012",82,8.1,Level5,"Puzzle,Miscellaneous,Puzzle,General,Puzzle,General",No Online Multiplayer,54,156
-Rainbow Billy: The Curse of the Leviathan,PC,"October 5, 2021",82,9.2,ManaVoidEntertainmentInc.,"Action,Action Adventure,General,Platformer,2D",No Online Multiplayer,7,5
-Yakuza 5 Remastered,PlayStation4,"February 11, 2020",82,7.9,RyugaGotokuStudios,"Action Adventure,Open-World",No Online Multiplayer,7,80
+Rainbow Billy: The Curse of the Leviathan,PC,"October 5, 2021",82,8.4,ManaVoidEntertainmentInc.,"Action,Action Adventure,General,Platformer,2D",No Online Multiplayer,7,7
+Yakuza 5 Remastered,PlayStation4,"February 11, 2020",82,8.0,RyugaGotokuStudios,"Action Adventure,Open-World",No Online Multiplayer,7,81
 The Pinball Arcade,PlayStation4,"December 17, 2013",82,6.7,FarsightStudios,"Action,Miscellaneous,Parlor,Pinball,Pinball",No Online Multiplayer,16,88
-Monster Hunter 3 Ultimate,WiiU,"March 19, 2013",82,8.3,Capcom,"Role-Playing,Action Adventure,Fantasy,Action RPG",No Online Multiplayer,55,327
-SnowRunner,PC,"April 28, 2020",82,6.6,SaberInteractive,"Racing,Arcade,Automobile",Up to 4 ,14,156
+Monster Hunter 3 Ultimate,WiiU,"March 19, 2013",82,8.3,Capcom,"Role-Playing,Action Adventure,Fantasy,Action RPG",No Online Multiplayer,55,328
+SnowRunner,PC,"April 28, 2020",82,6.7,SaberInteractive,"Simulation,Racing,Arcade,Vehicle,Automobile,Civilian",Up to 4 ,14,160
 Saints Row: The Third,PlayStation3,"November 15, 2011",82,7.8,VolitionInc.,"Action Adventure,Modern,Modern,Open-World",2 ,50,443
-Borderlands: The Handsome Collection,PlayStation4,"March 24, 2015",82,7.9,"GearboxSoftware,IronGalaxyStudios","Miscellaneous,Compilation",Up to 4 ,49,604
-Yakuza 6: The Song of Life,PC,"March 25, 2021",82,8.4,RyugaGotokuStudios,"Action Adventure,Open-World",No Online Multiplayer,9,18
-Tom Clancy's The Division 2,PlayStation4,"March 12, 2019",82,6.2,MassiveEntertainment,"First-Person,Action,Shooter,Third-Person,Tactical",Up to 16 ,56,1522
+Borderlands: The Handsome Collection,PlayStation4,"March 24, 2015",82,7.9,"GearboxSoftware,IronGalaxyStudios","Miscellaneous,Compilation",Up to 4 ,49,610
+Yakuza 6: The Song of Life,PC,"March 25, 2021",82,8.5,RyugaGotokuStudios,"Action Adventure,Open-World",No Online Multiplayer,9,21
+Tom Clancy's The Division 2,PlayStation4,"March 12, 2019",82,6.2,MassiveEntertainment,"First-Person,Action,Shooter,Third-Person,Tactical",Up to 16 ,56,1529
 Forza Horizon 2: Storm Island,XboxOne,"December 16, 2014",82,7.5,PlaygroundGames,"Driving,GT / Street,Racing,Simulation,Automobile",No info,19,94
 Super Stardust Delta,PlayStationVita,"February 14, 2012",82,8.0,Housemarque,"General,Action,Shooter,Shooter,Static,Static,Shoot-'Em-Up,Top-Down",No info,42,117
 Tiger Woods PGA Tour 09,PlayStation3,"August 26, 2008",82,7.1,EATiburon,"Sports,Traditional,Individual,Golf,Sim,Sim",No info,34,11
-Act of War: Direct Action,PC,"March 15, 2005",82,7.9,EugenSystems,"Strategy,Real-Time,Military,General,Military",8  Online,43,51
-Madden NFL 18,PlayStation4,"August 22, 2017",82,3.4,ElectronicArts,"Sports,Team,Football,Sim",Up to 6 ,40,158
+Act of War: Direct Action,PC,"March 15, 2005",82,7.9,EugenSystems,"Strategy,Real-Time,Military,General,Military",8  Online,43,52
+Madden NFL 18,PlayStation4,"August 22, 2017",82,3.4,ElectronicArts,"Sports,Team,Football,Sim",Up to 6 ,40,159
 South Park: The Stick of Truth,Xbox360,"March 4, 2014",82,8.4,ObsidianEntertainment,"General,Role-Playing,General",No Online Multiplayer,33,408
-Geometry Wars 3: Dimensions,XboxOne,"November 26, 2014",82,7.7,LucidGames,"Action,Shooter,Static,Shoot-'Em-Up,Top-Down",No info,27,40
+Geometry Wars 3: Dimensions,XboxOne,"November 26, 2014",82,7.5,LucidGames,"Action,Shooter,Static,Shoot-'Em-Up,Top-Down",No info,27,41
 SUPERHOT: MIND CONTROL DELETE,XboxOne,"July 16, 2020",82,5.6,SUPERHOT,"Action,Shooter,First-Person,Tactical",No Online Multiplayer,12,19
-Flat Heroes,Switch,"August 2, 2018",82,8.4,ParallelCircles,"Action,Platformer,2D",No Online Multiplayer,13,15
+Flat Heroes,Switch,"August 2, 2018",82,8.5,ParallelCircles,"Action,Platformer,2D",No Online Multiplayer,13,16
 Stealth Inc 2: A Game of Clones,WiiU,"October 30, 2014",82,7.9,CurveDigital,"Action,Platformer,2D",No info,21,49
 Horizon Chase Turbo,Switch,"November 28, 2018",82,8.3,AquirisGameStudio,"Racing,Arcade,Automobile",No Online Multiplayer,16,62
 RiME,XboxOne,"May 26, 2017",82,7.4,TequilaWorks,"Action,Adventure,General,3D,Third-Person",No Online Multiplayer,18,86
-Tekken 7,PC,"June 1, 2017",82,6.8,BandaiNamcoGames,"Action,Fighting,3D",Online Multiplayer,19,348
+Tekken 7,PC,"June 1, 2017",82,6.8,BandaiNamcoGames,"Action,Fighting,3D",Online Multiplayer,19,353
 Runbow,WiiU,"August 27, 2015",82,7.8,13AMGames,"Action,General,Platformer,2D",No info,34,66
 Madden NFL 17,PlayStation4,"August 23, 2016",82,4.0,EASports,"Sports,Team,Football,Sim",2 ,35,157
 Espgaluda II -Be Ascension. The Third Bright Stone of Birth-,Switch,"September 9, 2021",82,tbd,Cave,"Action,Shooter,Shoot-'Em-Up,Vertical",No Online Multiplayer,7,0
-Pistol Whip,PC,"November 7, 2019",82,7.7,CloudheadGames,"Action,Shooter,First-Person,Light Gun,Arcade",No Online Multiplayer,11,18
-Mortal Kombat 11,PC,"April 23, 2019",82,3.2,NetherRealmStudios,"Action,Fighting,2D",Up to 8 ,12,659
+Mortal Kombat 11,PC,"April 23, 2019",82,3.2,NetherRealmStudios,"Action,Fighting,2D",Up to 8 ,12,660
 Sokobond,PC,"August 27, 2013",82,7.5,AlanHazelden&HarryLee,"Miscellaneous,Puzzle,Action,Puzzle,Action",No Online Multiplayer,7,6
 Quell Memento,PlayStationVita,"June 4, 2013",82,7.6,FallenTreeGames,"Miscellaneous,Puzzle,Puzzle,Logic,Logic",No info,7,14
 MotoHeroz,Wii,"September 15, 2011",82,7.5,RedLynx,"Driving,Racing,Arcade,Arcade,Automobile",1-4 ,16,12
 Mario vs. Donkey Kong: Minis March Again!,DS,"June 8, 2009",82,8.0,Nintendo,"Action,Platformer,Platformer,2D,2D",1 Player,12,27
-Zone of the Enders: The 2nd Runner,PlayStation2,"March 10, 2003",82,8.7,KCEJ,"Simulation,Sci-Fi,Mech",1-2 ,33,95
-CrossCode,Switch,"July 9, 2020",82,8.1,RadicalFishGames,"Role-Playing,Action RPG",No Online Multiplayer,19,56
+Halo Infinite,PC,"December 8, 2021",82,7.1,343Industries,"Action,Shooter,First-Person,Arcade",No info,26,676
+Zone of the Enders: The 2nd Runner,PlayStation2,"March 10, 2003",82,8.7,KCEJ,"Simulation,Sci-Fi,Mech",1-2 ,33,96
+CrossCode,Switch,"July 9, 2020",82,8.1,RadicalFishGames,"Role-Playing,Action RPG",No Online Multiplayer,19,57
 F1 2016,PlayStation4,"August 19, 2016",82,7.9,Codemasters,"Racing,Simulation,Automobile",Up to 22 ,49,127
 Viva Pinata: Trouble in Paradise,Xbox360,"September 2, 2008",82,8.1,RareLtd.,"Simulation,Miscellaneous,Virtual Life,Virtual,Virtual Life",No Online Multiplayer,64,70
 Sam & Max Episode 105: Reality 2.0,PC,"March 29, 2007",82,7.5,TelltaleGames,"Adventure,General,3D,Point-and-Click,Third-Person",No Online Multiplayer,23,22
-Destiny 2: Forsaken,PlayStation4,"September 4, 2018",82,6.4,"BungieSoftware,Bungie","Action,Shooter,First-Person,Arcade",No info,41,298
-2010 FIFA World Cup South Africa,PlayStation3,"April 27, 2010",82,7.5,EACanada,"Sports,Traditional,Team,Soccer,Sim,Sim",No info,56,69
-Ruiner,Switch,"June 18, 2020",82,8.5,ReikonGames,"Action,General",No Online Multiplayer,8,15
-One Step From Eden,PC,"March 26, 2020",82,8.7,ThomasMoonKang,"Strategy,Real-Time,Defense",Online Multiplayer,9,50
+Destiny 2: Forsaken,PlayStation4,"September 4, 2018",82,6.4,"BungieSoftware,Bungie","Action,Shooter,First-Person,Arcade",No info,41,300
+2010 FIFA World Cup South Africa,PlayStation3,"April 27, 2010",82,7.6,EACanada,"Sports,Traditional,Team,Soccer,Sim,Sim",No info,56,70
+Ruiner,Switch,"June 18, 2020",82,8.5,ReikonGames,"Action,General,Shooter,Third-Person,Arcade",No Online Multiplayer,8,15
+One Step From Eden,PC,"March 26, 2020",82,8.5,ThomasMoonKang,"Strategy,Real-Time,Defense",Online Multiplayer,9,51
 Blazing Chrome,XboxOne,"July 11, 2019",82,7.9,"JoyMasher,SeavenStudio","Action,Platformer,2D",2 ,8,25
-Operencia: The Stolen Sun,XboxOne,"March 29, 2019",82,7.1,ZenStudios,"Role-Playing,Action RPG",No Online Multiplayer,15,32
+Operencia: The Stolen Sun,XboxOne,"March 29, 2019",82,7.2,ZenStudios,"Role-Playing,Action RPG",No Online Multiplayer,15,33
 NHL 19,XboxOne,"September 11, 2018",82,6.0,EASports,"Sports,Team,Ice Hockey,Sim",Up to 12 ,20,59
 Lovers in a Dangerous Spacetime,XboxOne,"September 9, 2015",82,7.3,AsteroidBase,"Platformer,2D,Action,Shooter,Shoot-'Em-Up,Horizontal",No info,27,36
 Bejeweled 3,PC,"December 7, 2010",82,7.8,PopCap,"Miscellaneous,Puzzle,Puzzle,Puzzle,Matching,Matching",No Online Multiplayer,27,111
 Dangerous Waters,PC,"February 22, 2005",82,8.6,Sonalysts,"Simulation,Submarine,Marine,Combat",32  Online,24,30
-Shift 2: Unleashed,Xbox360,"March 29, 2011",82,6.5,SlightlyMadStudios,"Driving,Racing,Simulation,GT / Street,GT / Street,Automobile",Up to 12 ,70,108
-No More Heroes 2: Desperate Struggle,Switch,"October 28, 2020",82,8.3,"EngineSoftware,GrasshopperManufacture","Action,Beat-'Em-Up,3D",No Online Multiplayer,21,23
-Yooka-Laylee and the Impossible Lair,PlayStation4,"October 8, 2019",82,7.0,PlaytonicGames,"Action,Platformer,2D",No Online Multiplayer,36,102
-LEGO The Lord of the Rings,PlayStation3,"November 13, 2012",82,8.3,TTGames,"Miscellaneous,Action Adventure,Adventure,General,General,Compilation,Linear",No Online Multiplayer,16,108
-Iron Brigade,Xbox360,"June 22, 2011",82,8.1,DoubleFineProductions,"Action,Strategy,General,Real-Time,General,Defense",No info,43,76
-Tomb Raider: Legend,PC,"April 11, 2006",82,7.9,NixxesSoftware,"Action Adventure,Modern,Modern,Linear",No Online Multiplayer,31,337
-Peter Jackson's King Kong: The Official Game of the Movie,PlayStation2,"November 21, 2005",82,8.4,UbisoftMontpellier,"Action Adventure,Modern",1 Player,41,106
-Asheron's Call 2: Fallen Kings,PC,"November 20, 2002",82,7.2,TurbineInc.,"Role-Playing,Massively Multiplayer Online,Massively Multiplayer,Fantasy,Fantasy",Massively Multiplayer,22,10
-Super Monkey Ball Jr.,GameBoyAdvance,"November 19, 2002",82,7.6,RealismLtd,"Miscellaneous,Puzzle,General",1-4 ,20,17

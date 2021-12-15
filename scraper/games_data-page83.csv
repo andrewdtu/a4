@@ -1,33 +1,79 @@
 name,platform,r-date,score,user score,developer,genre,players,critics,users
+Biped,PC,"March 26, 2020",74,7.7,NExTStudios,"Action,General,Platformer,3D",Online Multiplayer,11,38
+Shadow Bug,Switch,"March 30, 2018",74,6.0,MuroStudiosLtd.,"Action,Platformer,2D",No Online Multiplayer,11,13
+The Escapists,XboxOne,"February 13, 2015",74,6.7,MouldyToofStudios,"Action,General",No info,31,33
+Dungeon Siege: Throne of Agony,PSP,"October 30, 2006",74,8.0,SuperVillainStudios,"Role-Playing,Action RPG,Action RPG",2 ,32,28
+The Raven: Legacy of a Master Thief,PC,"July 23, 2013",74,6.8,KINGArt,"Adventure,General,General,Point-and-Click",No Online Multiplayer,36,75
+Marvel's Guardians of the Galaxy - Episode 1: Tangled Up in Blue,XboxOne,"April 18, 2017",74,6.4,TelltaleGames,"Action,Adventure,General,3D,Third-Person",No info,12,20
+Nobunaga's Ambition: Sphere of Influence - Ascension,PlayStation4,"October 25, 2016",74,7.1,KoeiTecmoGames,"Strategy,Turn-Based,General",No info,12,11
+Dungeon Runners,PC,"July 2, 2008",74,5.8,NCSOFT,"Role-Playing,Massively Multiplayer Online,Massively Multiplayer,Fantasy,Fantasy",Massively Multiplayer,16,12
+Blitzkrieg (2003),PC,"May 12, 2003",74,7.8,NivalInteractive,"Strategy,Real-Time,Historic,General,Historic,Tactics",1-8 ,14,51
+Genji: Dawn of the Samurai,PlayStation2,"September 20, 2005",74,8.7,GameRepublic,"Action Adventure,Fantasy",1 Player,49,30
+Trackmania,PC,"July 1, 2020",74,4.2,UbisoftNadeo,"Racing,Arcade,Automobile",No Online Multiplayer,27,135
+Where the Water Tastes Like Wine,PC,"February 28, 2018",74,5.3,DimBulbGames,"Miscellaneous,Adventure,General",No Online Multiplayer,40,34
+Batman: Arkham Origins,Xbox360,"October 25, 2013",74,7.6,WBGamesMontreal,"Action Adventure,Fantasy,Fantasy,Open-World",No Online Multiplayer,46,774
+Marvel: Ultimate Alliance 2,PlayStation3,"September 15, 2009",74,7.2,VicariousVisions,"Role-Playing,Action RPG,Action RPG",Up to 4 ,48,65
+Masters of Anima,XboxOne,"April 10, 2018",74,tbd,PasstechGames,"Strategy,Real-Time,MOBA",No Online Multiplayer,12,0
+Zoonies - Escape From Makatu,DS,"August 18, 2011",74,tbd,Kiloo,"Action,Platformer,Platformer,2D,2D",1 Player,8,0
+Rugby 08,PlayStation2,"July 17, 2007",74,7.5,EACanada,"Sports,Alternative,Rugby",1-4 ,21,27
+Meteos: Disney Magic,DS,"February 20, 2007",74,6.6,QEntertainment,"Miscellaneous,Puzzle,Puzzle,Puzzle,Matching,Matching",1-4 ,36,5
+Cars 2: The Video Game,PlayStation3,"June 21, 2011",74,7.4,AvalancheSoftware,"Driving,Racing,Mission-based,General,General,Arcade,Automobile",No Online Multiplayer,31,23
+Black Future '88,PC,"November 21, 2019",74,7.1,SuperScarySnakes,"Action,Shooter,Shoot-'Em-Up,Top-Down",Online Multiplayer,7,7
+Assassin's Creed Syndicate,PC,"November 19, 2015",74,6.4,UbisoftQuebec,"Historic,Action Adventure,Open-World",No Online Multiplayer,14,1056
+Mercury Hg,Xbox360,"September 28, 2011",74,7.6,UTVIgnitionGames,"Miscellaneous,Puzzle,General,Puzzle,Action",No info,22,10
+Big Brain Academy,DS,"June 5, 2006",74,7.5,Nintendo,"Miscellaneous,Edutainment,Edutainment",1-8 ,45,30
+Expeditions: Viking,PC,"April 27, 2017",74,8.0,LogicArtists,"Role-Playing,Strategy,Turn-Based,General,Tactics",No Online Multiplayer,33,122
+Def Jam Rapstar,Xbox360,"October 5, 2010",74,6.1,"TerminalReality,4mmGames","Action,Miscellaneous,Rhythm,Music,Music",1 Player,36,9
+Far Cry Primal,PC,"February 29, 2016",74,5.8,UbisoftMontreal,"Action,Shooter,First-Person,Arcade",No Online Multiplayer,18,767
+Tom Clancy's HAWX,PlayStation3,"March 3, 2009",74,7.8,UbisoftRomania,"Action,Simulation,Flight,Flight,Combat",No info,35,48
+Bad Mojo: Redux,PC,"December 10, 2004",74,6.6,PulseEntertainment,"Action Adventure,Adventure,General,Horror,General",No Online Multiplayer,12,17
+Magicka,PC,"January 25, 2011",74,7.6,ArrowheadGameStudios,"Action Adventure,Fantasy,General,Fantasy,Linear",Up to 4 ,44,656
+Mages of Mystralia,PC,"May 18, 2017",74,8.5,BorealysGames,"Action Adventure,General,Linear",No Online Multiplayer,21,26
+The Coma 2: Vicious Sisters,XboxOne,"September 4, 2020",74,tbd,DevespressoGames,"Action Adventure,Survival",No Online Multiplayer,9,0
+Life is Strange 2: Episode 2 - Rules,XboxOne,"January 24, 2019",74,4.4,DONTNODEntertainment,"Action Adventure,General",No Online Multiplayer,7,27
+The Turing Test,PC,"August 30, 2016",74,6.7,BulkheadInteractive,"Action,Shooter,First-Person,Arcade",No Online Multiplayer,31,125
+3D Thunder Blade,3DS,"May 14, 2015",74,7.1,M2,"Scrolling,Action,Shooter,Shoot-'Em-Up,Vertical",No info,8,9
+Galaga Legions DX,Xbox360,"June 29, 2011",74,6.8,NamcoBandaiGames,"Action,Shooter,Shooter,Static,Static,Shoot-'Em-Up,Vertical",No info,31,4
+Naruto Shippuden: Ultimate Ninja Storm Generations,PlayStation3,"March 13, 2012",74,7.0,"CyberConnect2,Racjin","Action,Fighting,Fighting,3D,3D",Up to 8 ,23,110
+LEGO Batman: The Videogame,Wii,"September 23, 2008",74,8.0,Traveller'sTales,"Action Adventure,Modern,General,Modern",No Online Multiplayer,17,32
+Prince of Persia Rival Swords,PSP,"April 3, 2007",74,8.3,"PipeworksSoftware,Inc.","Action Adventure,Fantasy,General,Fantasy",1-2 ,16,25
+One Line Coloring,Switch,"August 21, 2020",74,tbd,MythicOwl,"Miscellaneous,Application",No Online Multiplayer,9,0
+Resolutiion,Switch,"May 28, 2020",74,tbd,MonolithofMinds,"Action Adventure,Linear",No Online Multiplayer,8,0
+The Surge,XboxOne,"May 16, 2017",74,7.2,Deck13,"Role-Playing,Action RPG",No Online Multiplayer,17,84
+Borderlands: The Pre-Sequel,Xbox360,"October 14, 2014",74,6.6,2KAustralia,"Action,Shooter,First-Person,Sci-Fi,Arcade",Up to 4 ,16,203
+The Sims 3 Supernatural,PC,"September 4, 2012",74,6.3,TheSimsStudio,"Simulation,Miscellaneous,Virtual Life,Virtual,Virtual Life",No info,16,56
+Dai Senryaku VII: Modern Military Tactics,Xbox,"February 16, 2005",74,7.9,SystemSoft,"Strategy,Turn-Based,Modern",1-4 ,11,8
+Worms 3D,PC,"March 11, 2004",74,7.1,Team17,"Strategy,Turn-Based,Real-Time,Fantasy,Fantasy,Artillery",1-4 ,15,74
+Rayman 3: Hoodlum Havoc,PC,"March 18, 2003",74,8.1,Ubisoft,"Action,Platformer,Platformer,3D,3D",1 Player,8,105
 Headhunter,PlayStation2,"May 9, 2002",74,8.0,Amuze,"Action Adventure,Modern",1 Player,24,27
 Comanche 4,PC,"November 12, 2001",74,7.6,NovaLogic,"Simulation,Flight,Helicopter,Helicopter,Combat,Civilian",Up to 16 ,16,30
 Icewind Dale: Heart of Winter,PC,"February 19, 2001",74,7.8,BlackIsleStudios,"Role-Playing,General,PC-style RPG,Western-Style",1-6 ,15,64
 Dino Crisis,Dreamcast,"November 14, 2000",74,8.7,Capcom,"Action Adventure,Horror",No info,12,57
 Summoner,PlayStation2,"October 25, 2000",74,7.5,VolitionInc.,"Role-Playing,Action RPG",1 Player,16,16
 Star Trek: Klingon Academy,PC,"June 21, 2000",74,7.2,14DegreesEast,"Simulation,Sci-Fi,Space,Large Spaceship,Large Spaceship,Civilian",1-6 ,14,15
-Total Annihilation: Kingdoms,PC,"June 23, 1999",74,8.4,CavedogEntertainment,"Strategy,Real-Time,Fantasy,General,Command",Up to 8 ,18,33
+Total Annihilation: Kingdoms,PC,"June 23, 1999",74,8.5,CavedogEntertainment,"Strategy,Real-Time,Fantasy,General,Command",Up to 8 ,18,34
 Disney Infinity,Xbox360,"August 18, 2013",74,6.6,AvalancheSoftware,"Action Adventure,Fantasy,General,Fantasy",No info,38,86
 Just Dance 3,Wii,"October 7, 2011",74,8.0,Ubisoft,"Action,Miscellaneous,Rhythm,Dancing,Dancing",No info,15,22
 CAPSIZED,Xbox360,"July 5, 2013",74,7.2,KoolhausGames,"Action,General,Platformer,Platformer,2D,2D",No info,22,18
 Need for Speed: Hot Pursuit Remastered,Switch,"November 13, 2020",74,7.6,CriterionGames,"Racing,Arcade,Automobile",Up to 8 ,9,37
 Grow Up,XboxOne,"August 16, 2016",74,6.8,UbisoftReflections,"Action Adventure,Open-World",No info,8,19
-Need for Speed Carbon,PlayStation2,"October 31, 2006",74,8.4,EACanada,"Driving,Racing,GT / Street",1-2 ,26,104
+Need for Speed Carbon,PlayStation2,"October 31, 2006",74,8.3,EACanada,"Driving,Racing,GT / Street",1-2 ,26,105
 Atelier Totori: The Adventurer of Arland,PlayStation3,"September 27, 2011",74,8.1,Gust,"Role-Playing,Console-style RPG,Console-style RPG,Japanese-Style",No Online Multiplayer,19,85
 The Sims: House Party,PC,"March 26, 2001",74,7.9,Maxis,"Simulation,Miscellaneous,Virtual Life,Virtual,Virtual Life",No info,17,36
 Kingdom Hearts: Melody of Memory,PlayStation4,"November 13, 2020",74,7.4,"SquareEnix,indieszero","Action,Rhythm,Music",2 ,54,78
-Phoenix Point,PC,"December 3, 2019",74,5.8,SnapshotGamesInc.,"Strategy,Turn-Based,Tactics",No Online Multiplayer,48,375
-Ancestors Legacy,PlayStation4,"August 13, 2019",74,7.0,DestructiveCreations,"Strategy,Real-Time,General,Command",Up to 6 ,12,23
-Crookz: The Big Heist,PC,"August 25, 2015",74,7.1,SkilltreeStudios,"Strategy,Turn-Based,General,Historic",No info,11,15
+Phoenix Point,PC,"December 3, 2019",74,5.8,SnapshotGamesInc.,"Strategy,Turn-Based,Tactics",No Online Multiplayer,48,376
+Ancestors Legacy,PlayStation4,"August 13, 2019",74,7.0,DestructiveCreations,"Strategy,Real-Time,General,Command",Up to 6 ,12,24
+Crookz: The Big Heist,PC,"August 25, 2015",74,7.1,SkilltreeStudios,"Strategy,Turn-Based,General,Historic",No info,11,16
 Hasbro Family Game Night: Connect Four,Xbox360,"March 18, 2009",74,tbd,ElectronicArts,"Miscellaneous,Board Games,Board / Card Game",No info,9,0
 Massive Assault Network,PC,"April 13, 2004",74,4.3,Wargaming.net,"Strategy,Turn-Based,Sci-Fi,General",1-2 ,10,4
 Super Stardust Ultra,PlayStation4,"February 10, 2015",74,7.1,d3tLtd,"Action,Shooter,Shoot-'Em-Up,Top-Down",No info,33,34
 Gigantic,XboxOne,"July 20, 2017",74,7.5,Motiga,"Strategy,Real-Time,MOBA",No info,12,30
 Moving Out,PlayStation4,"April 28, 2020",74,7.8,SMGStudio,"Puzzle,Action",Up to 4 ,25,25
-GRID,PC,"October 8, 2019",74,5.2,Codemasters,"Racing,Simulation,Automobile",Online Multiplayer,13,83
+GRID,PC,"October 8, 2019",74,5.3,Codemasters,"Racing,Simulation,Automobile",Online Multiplayer,13,83
 Jotun: Valhalla Edition,Switch,"April 27, 2018",74,6.6,ThunderLotusGames,"Action,General",No Online Multiplayer,14,29
 Major League Baseball 2K7,PlayStation3,"February 26, 2007",74,4.7,KushGames,"Sports,Traditional,Team,Baseball,Sim,Sim",2  Online,19,7
 Lost Words: Beyond the Page,PC,"April 6, 2021",74,8.2,SketchbookGames,"Action,Adventure,General,Platformer,2D",No Online Multiplayer,15,13
-Trials of Mana,Switch,"April 24, 2020",74,7.7,"SquareEnix,GREZZO,Xeen","Role-Playing,Action RPG",No Online Multiplayer,29,117
+Trials of Mana,Switch,"April 24, 2020",74,7.6,"SquareEnix,GREZZO,Xeen","Role-Playing,Action RPG",No Online Multiplayer,29,120
 Life is Strange: Episode 4 - Dark Room,XboxOne,"July 28, 2015",74,8.4,DONTNODEntertainment,"Action Adventure,General",No info,11,107
 King's Bounty: Warriors of the North,PC,"October 25, 2012",74,7.0,"KatauriInteractive,KaturiInteractive","Strategy,Turn-Based,Fantasy,General,Fantasy",No Online Multiplayer,14,109
 Magic: The Gathering - Duels of the Planeswalkers 2012,PlayStation3,"June 14, 2011",74,6.3,StainlessGames,"Strategy,Miscellaneous,Turn-Based,Card Battle,Card Battle",No info,12,15
@@ -36,66 +82,20 @@ Steambot Chronicles,PlayStation2,"May 23, 2006",74,8.4,Irem,"Role-Playing,Consol
 Nantucket,PC,"January 18, 2018",74,7.4,PicaresqueStudio,"Action,General",No Online Multiplayer,16,19
 Sega Rally Revo,PSP,"October 9, 2007",74,7.4,Bugbear,"Driving,Racing,Arcade,Rally / Offroad,Rally / Offroad,Automobile",Up to 4 ,14,12
 Snake Pass,XboxOne,"March 29, 2017",74,6.1,SumoDigital,"Action Adventure,Puzzle,Action,General",No info,18,18
-Saints Row: The Third Remastered,PlayStation4,"May 22, 2020",74,6.8,Sperasoft,"Action Adventure,Open-World",2 ,44,80
+Saints Row: The Third Remastered,PlayStation4,"May 22, 2020",74,6.8,Sperasoft,"Action Adventure,Open-World",2 ,44,83
 Layers of Fear,PlayStation4,"February 16, 2016",74,7.4,BlooberTeam,"Adventure,3D,First-Person",No info,38,159
 Gatling Gears,Xbox360,"May 11, 2011",74,7.7,VanguardGames,"Action,Strategy,Shooter,General,Shooter,Scrolling,Scrolling,Shoot-'Em-Up,Vertical",No info,40,23
-Ghostbusters: The Video Game,PC,"June 16, 2009",74,7.8,TerminalReality,"Action,General,General",Up to 4 ,26,153
+Ghostbusters: The Video Game,PC,"June 16, 2009",74,7.8,TerminalReality,"Action,General,General",Up to 4 ,26,154
 Tourist Trophy,PlayStation2,"April 4, 2006",74,8.5,PolyphonyDigital,"Driving,Racing,Motorcycle,Street",1-2 ,56,23
 WWE SmackDown vs. Raw 2008,PlayStation3,"November 13, 2007",74,7.2,Yuke's,"Action,Sports,Fighting,Fighting,Individual,Wrestling,Combat,Wrestling",Up to 4 ,27,49
-Street Fighter V,PC,"February 16, 2016",74,3.2,Capcom,"Action,Fighting,2D",2 ,33,515
-Call of Duty: Vanguard,PC,"November 5, 2021",74,5.8,SledgehammerGames,"Action,Shooter,First-Person,Tactical",Up to more than 64 ,14,197
+Street Fighter V,PC,"February 16, 2016",74,3.2,Capcom,"Action,Fighting,2D",2 ,33,517
 Lost in Random,XboxSeriesX,"September 10, 2021",74,7.8,Zoink!,"Action Adventure,General",No info,7,12
-Encased: a sci-fi post-apocalyptic RPG,PC,"September 7, 2021",74,7.7,DarkCrystalGames,"Role-Playing,Western-Style",No Online Multiplayer,18,34
 The Big Con,XboxSeriesX,"August 31, 2021",74,tbd,MightyYell,"Adventure,General",No info,9,0
+art of rally,Switch,"August 12, 2021",74,tbd,FunselektorLabsInc.,"Racing,Arcade,Automobile",No info,8,0
 Toodee and Topdee,PC,"August 4, 2021",74,8.6,dietzribi,"Action,Platformer,2D",No info,8,5
-FIFA 21,PC,"October 9, 2020",74,1.2,ElectronicArts,"Sports,Team,Soccer,Sim",Online Multiplayer,8,608
+FIFA 21,PC,"October 9, 2020",74,1.3,ElectronicArts,"Sports,Team,Soccer,Sim",Online Multiplayer,8,616
 Neon Abyss,PC,"July 14, 2020",74,6.3,VeewoGames,"Action,Platformer,2D",No Online Multiplayer,12,36
 Wattam,PC,"December 17, 2019",74,6.6,Funomena,"Adventure,3D,Third-Person",Online Multiplayer,10,7
-Zombie Army 4: Dead War,PC,"August 27, 2019",74,4.5,Rebellion,"Action,Shooter,First-Person,Third-Person,Arcade",Up to 4 ,15,51
-Bloodstained: Ritual of the Night,Switch,"June 25, 2019",74,5.5,ArtPlay,"Action,Role-Playing,Platformer,Action RPG,2D",No Online Multiplayer,17,225
+Zombie Army 4: Dead War,PC,"August 27, 2019",74,4.6,Rebellion,"Action,Shooter,First-Person,Third-Person,Arcade",Up to 4 ,15,52
+Bloodstained: Ritual of the Night,Switch,"June 25, 2019",74,5.6,ArtPlay,"Action,Role-Playing,Platformer,Action RPG,2D",No Online Multiplayer,17,223
 Dawn of Man,PC,"March 1, 2019",74,7.3,MadrugaWorks,"Strategy,Real-Time,General",No Online Multiplayer,9,83
-Ys: Memories of Celceta,PC,"July 25, 2018",74,7.2,Falcom,"Role-Playing,Action RPG",No Online Multiplayer,7,17
-Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings,PlayStation4,"March 27, 2018",74,6.7,Gust,"Role-Playing,Japanese-Style",No Online Multiplayer,24,32
-Aqua Kitty UDX,Switch,"February 15, 2018",74,8.1,TikipodLimited,"Action,General",No Online Multiplayer,9,14
-NBA 2K18,Switch,"September 15, 2017",74,4.3,VisualConcepts,"Sports,Team,Basketball,Sim",Up to 10 ,15,173
-ChromaGun,PlayStation4,"August 22, 2017",74,6.0,PixelManiacs,"Action,Shooter,First-Person,Arcade",No Online Multiplayer,10,6
-Collar x Malice,PlayStationVita,"July 28, 2017",74,7.5,Otomate,"General,Adventure,Visual Novel",No Online Multiplayer,7,14
-Super Cloudbuilt,XboxOne,"July 28, 2017",74,7.1,"Coilworks,DoubleEleven","Action Adventure,General",No info,8,9
-Pinball FX 2: Star Wars Pinball - Rogue One,PlayStation4,"January 31, 2017",74,3.5,ZenStudios,"Action,Pinball",No info,7,6
-Milkmaid of the Milky Way,PC,"January 4, 2017",74,7.0,machineboy,"Adventure,Point-and-Click",No Online Multiplayer,9,7
-Heaven's Hope,PC,"February 25, 2016",74,6.7,MosaicMask,"General,Adventure,Point-and-Click",No Online Multiplayer,8,11
-Resident Evil: Revelations 2 - Episode 4: Metamorphosis,XboxOne,"March 18, 2015",74,7.4,Capcom,"Action Adventure,Survival",No info,10,19
-The Guided Fate Paradox,PlayStation3,"November 5, 2013",74,7.8,NipponIchiSoftware,"Role-Playing,General,General,Roguelike",No Online Multiplayer,27,64
-Incredipede,PC,"October 25, 2012",74,6.7,NorthwayGames,"Miscellaneous,Puzzle,Action,Puzzle,General,General",1 Player,7,26
-TrackMania: Build to Race,Wii,"March 24, 2011",74,7.6,FirebrandGames,"Driving,Racing,Arcade,Arcade,Automobile",No info,17,7
-WWE SmackDown vs. Raw 2011,PlayStation3,"October 26, 2010",74,8.0,Yuke's,"Action,Sports,Fighting,Fighting,Individual,Wrestling,Combat,Wrestling",Up to 12 ,42,60
-Broken Sword: Shadow of the Templars - The Director's Cut,Wii,"March 24, 2009",74,8.2,RevolutionSoftware,"Adventure,General,General,Point-and-Click",1-2 ,29,16
-World Series of Poker 2008: Battle for the Bracelets,Xbox360,"September 26, 2007",74,6.7,LeftFieldProductions,"Miscellaneous,Parlor,Gambling,Gambling",16  Online,10,7
-Ridge Racer 6,Xbox360,"November 17, 2005",74,7.3,Namco,"Driving,Racing,Arcade,Arcade,Automobile",Up to 14 ,65,32
-Ultra Bust-A-Move,Xbox,"November 4, 2004",74,tbd,TaitoCorporation,"Miscellaneous,Puzzle,Matching",2  Online,12,0
-Classic NES Series: Castlevania,GameBoyAdvance,"October 25, 2004",74,8.6,Konami,"Action,Platformer,2D",1 Player,10,24
-Manhunt,Xbox,"April 20, 2004",74,7.9,RockstarNorth,"Action Adventure,Modern",1 Player,37,22
-1503 A.D. - The New World,PC,"March 23, 2003",74,7.6,SunflowersInteractive,"Strategy,Real-Time,Historic,General,Historic",1-8 ,14,21
-Apex,Xbox,"February 17, 2003",74,7.3,MilestoneS.r.l,"Driving,Racing,GT / Street",1-2 ,26,10
-MX Superfly,Xbox,"November 20, 2002",74,tbd,PacificCoastPower&Light,"Driving,Racing,Motorcycle,Motocross",1-2 ,12,0
-Evil Islands: Curse of the Lost Soul,PC,"April 17, 2001",74,8.0,NivalInteractive,"Role-Playing,General,General",1-6 ,17,64
-Hidden & Dangerous,PC,"July 29, 1999",74,7.8,IllusionSoftworks,"Action,Shooter,General,Shooter,First-Person,Tactical,Historic",No info,13,32
-Kinectimals,Xbox360,"November 4, 2010",74,3.4,FrontierDevelopments,"Simulation,Miscellaneous,Virtual Life,Virtual,Virtual Life",No Online Multiplayer,50,75
-Katamari Forever,PlayStation3,"September 22, 2009",74,8.0,BandaiNamcoGames,"Action,General,General",No Online Multiplayer,51,57
-Toukiden: Kiwami,PlayStation4,"March 31, 2015",74,7.4,KoeiTecmoGames,"Action,General",Up to 4 ,35,87
-Naruto Shippuden: Clash of Ninja Revolution III,Wii,"November 17, 2009",74,7.8,"Eighting,8ing/Raizing","Action,Fighting,Fighting,3D,3D",No info,23,28
-Far Cry 6,PlayStation5,"October 7, 2021",74,4.6,UbisoftToronto,"Action Adventure,Open-World",No info,55,686
-LIT,Wii,"February 9, 2009",74,7.4,WayForward,"Miscellaneous,Puzzle,Action,Puzzle,Puzzle,Action",1 Player,20,7
-Unmechanical,PC,"August 8, 2012",74,7.7,"TeotlStudios,TalawaGames","Action,Miscellaneous,Puzzle,General,Puzzle,Platformer,General,2D",No Online Multiplayer,24,81
-Dungeons & Dragons Online: Stormreach,PC,"February 28, 2006",74,6.9,TurbineInc.,"Role-Playing,Massively Multiplayer Online,Massively Multiplayer,Fantasy,Fantasy",Massively Multiplayer,33,77
-Sam & Max: Season One,Wii,"October 15, 2008",74,8.1,TelltaleGames,"Miscellaneous,Adventure,General,Compilation,3D,Compilation,Point-and-Click,Third-Person",1 Player,34,17
-Drone Tactics,DS,"May 12, 2008",74,7.8,Success,"Strategy,Turn-Based,Sci-Fi,Sci-Fi,General",2  Online,12,8
-Dive: The Medes Islands Secret,Wii,"July 26, 2010",74,tbd,OvertheTopGames,"Adventure,General,General",1 Player,13,0
-Shadow Complex Remastered,XboxOne,"March 16, 2016",74,5.8,ChairEntertainment,"Action,Shooter,Third-Person,Arcade",No info,14,14
-God Wars: Future Past,PlayStation4,"June 20, 2017",74,6.6,Kadokawa,"Strategy,Turn-Based,Tactics",No Online Multiplayer,16,34
-Gibbous -  A Cthulhu Adventure,PC,"August 7, 2019",74,6.4,StuckInAttic,"Adventure,General,Point-and-Click",No Online Multiplayer,14,52
-Yonder: The Cloud Catcher Chronicles,Switch,"May 17, 2018",74,7.4,PridefulSloth,"Action Adventure,Open-World",No Online Multiplayer,15,42
-Fuser,PC,"November 9, 2020",74,6.7,HarmonixMusicSystems,"Action,Rhythm,Music",Up to 12 ,12,7
-Relicta,PC,"August 3, 2020",74,6.6,MightyPolygon,"Adventure,3D,First-Person",No Online Multiplayer,15,16
-WWE 2K14,PlayStation3,"October 29, 2013",74,7.5,Yuke's,"Action,Sports,Fighting,Fighting,Individual,Wrestling,Combat,Wrestling",Up to 6 ,22,144
-Marble It Up!,Switch,"September 29, 2018",74,7.4,BadHabitProductions,"Puzzle,Action",No Online Multiplayer,12,7
