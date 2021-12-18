@@ -55,9 +55,23 @@ export default function define(runtime, observer) {
         )
     });
     main.variable(observer("replay")).define("replay", ["Generators", "viewof replay"], (G, _) => G.input(_));
-    main.variable(observer("barchart")).define("barchart", ["replay", "d3", "width", "height", "bars", "axis", "labels", "ticker", "keyframes", "duration", "x", "invalidation"], async function* (replay, d3, width, height, bars, axis, labels, ticker, keyframes, duration, x, invalidation) {
-            replay;
+    main.variable(observer("viewof pause")).define("viewof pause", ["html"], function (html) {
 
+        return (
+            html`
+                <button>Pause</button>`
+        )
+
+
+    });
+    main.variable(observer("pause")).define("pause", ["Generators", "viewof pause"], (G, _) => G.input(_)));
+
+
+    main.variable(observer("barchart")).define("barchart", ["pause", "replay", "d3", "width", "height", "bars", "axis", "labels", "ticker", "keyframes", "duration", "x", "invalidation"], async function* (pause, replay, d3, width, height, bars, axis, labels, ticker, keyframes, duration, x, invalidation) {
+            replay;
+            pause;
+
+            
 
             const svg = d3.create("svg")
                 .attr("viewBox", [0, 0, width, height]);
@@ -83,12 +97,15 @@ export default function define(runtime, observer) {
                 updateTicker(keyframe, transition);
 
                 invalidation.then(() => svg.interrupt());
+
                 await transition.end();
 
 
             }
         }
     );
+
+
     main.variable(observer("linechart")).define("linechart", ["LineChart", "rating_data", "width"], function (LineChart, rating_data, width) {
         return (
             LineChart(rating_data, {
