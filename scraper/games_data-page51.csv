@@ -1,5 +1,4 @@
 name,platform,r-date,score,user score,developer,genre,players,critics,users
-OlliOlli,PlayStationVita,"January 21, 2014",79,7.8,TomHegarty,"Sports,Alternative,Individual,Skateboarding,Skate / Skateboard",No info,55,56
 Guitar Hero III: Legends of Rock,PC,"November 13, 2007",79,7.5,Aspyr,"Action,Miscellaneous,Rhythm,Music,Music",1-2 ,15,87
 Sid Meier's Civilization: Beyond Earth - Rising Tide,PC,"October 9, 2015",79,6.1,FiraxisGames,"Strategy,Turn-Based,General,4X",No info,39,129
 Smuggler's Run: Warzones,GameCube,"August 7, 2002",79,7.1,RockstarSanDiego,"Driving,Mission-based",1-4 ,23,12
@@ -68,7 +67,7 @@ Summon Night: Swordcraft Story 2,GameBoyAdvance,"October 17, 2006",79,8.6,Flight
 Driveclub Bikes,PlayStation4,"October 27, 2015",79,7.4,EvolutionStudios,"Racing,Simulation,Automobile",Up to 12 ,29,122
 Anomaly: Warzone Earth,Xbox360,"April 6, 2012",79,6.1,11bitstudios,"Strategy,Real-Time,General,Sci-Fi,General",No info,31,18
 DOOM,Switch,"November 10, 2017",79,8.5,"idSoftware,PanicButton","Action,Shooter,First-Person,Arcade",Up to 12 ,66,515
-DIRT 5,PlayStation4,"November 3, 2020",79,5.1,Codemasters,"Racing,Simulation,Automobile",Up to 12 ,37,94
+DIRT 5,PlayStation4,"November 3, 2020",79,5.2,Codemasters,"Racing,Simulation,Automobile",Up to 12 ,37,95
 Semblance,PC,"July 24, 2018",79,6.0,Nyamakop,"Action,Platformer,2D",No Online Multiplayer,9,8
 Batman: The Enemy Within - The Telltale Series,PC,"August 8, 2017",79,7.3,TelltaleGames,"Adventure,Point-and-Click",No Online Multiplayer,9,130
 Dead Space: Extraction,PlayStation3,"January 25, 2011",79,6.8,VisceralGames,"Action,Action Adventure,Horror,Horror,Shooter,Light Gun",No Online Multiplayer,9,63
@@ -99,3 +98,4 @@ RayStorm,PlayStation,"December 31, 1996",79,7.6,TaitoCorporation,"Action,General
 The King of Fighters XIV,PlayStation4,"August 23, 2016",79,8.2,"SNKPlaymore,SNKCorporation","Action,Fighting,2D",Up to 12 ,55,295
 Madden NFL 20,XboxOne,"July 30, 2019",79,2.0,"ElectronicArts,EATiburon","Action,Sports,General,Team,Football,Sim",Up to 6 ,22,121
 Tales of Berseria,PlayStation4,"January 24, 2017",79,7.2,BandaiNamcoGames,"Japanese-Style,Role-Playing,Action RPG",No Online Multiplayer,57,571
+Star Wars: Squadrons,PlayStation4,"October 2, 2020",79,5.6,MotiveStudios,"Simulation,Space,Combat",Up to 10 ,50,346
