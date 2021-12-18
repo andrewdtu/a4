@@ -1,0 +1,14 @@
+{
+  "name": "b8c5b16bec45e50f",
+  "main": "barChart.js",
+  "version": "3633.0.0",
+  "homepage": "https://observablehq.com/d/b8c5b16bec45e50f",
+  "author": {
+    "name": "Andrew Tu",
+    "url": "https://observablehq.com/@andrewdtu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
