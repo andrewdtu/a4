@@ -1,7 +1,9 @@
 import define1 from "./450051d7f1174df8@254.js";
 import define2 from "./e93997d5089d7165@2303.js";
 
-//referenced https://observablehq.com/@d3/bar-chart-race
+// https://observablehq.com/@d3/bar-chart-race,
+// https://discord.com/channels/922244151314092102/922244151314092104/922245750778384464
+// https://observablehq.com/@d3/multi-line-chart
 
 export default function define(runtime, observer) {
   const main = runtime.module();
