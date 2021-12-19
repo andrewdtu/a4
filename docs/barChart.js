@@ -1,5 +1,5 @@
-import define1 from "./lib/selection.js";
-import define2 from "./lib/scrubber.js";
+import define1 from "./lib/scrubber.js";
+import define2 from "./lib/selection.js";
 
 // https://observablehq.com/@d3/bar-chart-race,
 // https://discord.com/channels/922244151314092102/922244151314092104/922245750778384464
