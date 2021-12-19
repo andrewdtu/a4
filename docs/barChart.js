@@ -1,5 +1,5 @@
-import define1 from "./450051d7f1174df8@254.js";
-import define2 from "./e93997d5089d7165@2303.js";
+import define1 from "./lib/selection.js";
+import define2 from "./lib/scrubber.js";
 
 export default function define(runtime, observer) {
   const main = runtime.module();
