@@ -35,9 +35,22 @@ const mainExplorable = runtimeExplorable.module(define, name => {
 });
 
 </script>
+
 <div class = "row">
     <div class = "chart">
         <h1>Bar Chart Race of Video Games 1995-2021</h1>
+        <h2>Background: </h2>
+        <p>
+            For our visualization, we used Metacritic Video-Game Data from a Kaggle user named BrunoVR.
+            This data set is a collection of metrics scraped off the Metacritics website from 1995 to 2021.
+            For our visualization, we wanted to look at three things: the change in videogame popularity over time,
+            the changes in genera popularity over time, and the changes in developer dominance and popularity over time.
+            To see the video game popularity and genre popularity, we decided to look at the number of games released
+            per year throughout 1995 - 2021 and compare with the moving chart. We decided to use two graphs for developers'
+            popularity: the moving bar chart and the line chart with popularity on the Y-axis and year on the X-axis.
+            Both of these charts, we feel, give an accurate depiction of the popularity of developers and the prevalence of developers
+            per year.
+        </p>
 
         <div id="replay"></div>
 	<div id="pause"></div>
