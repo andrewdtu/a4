@@ -1,5 +1,4 @@
 # a4
- 
-platform, developer, and genre.csv are ready for d3 integration
+ A D3 observable project displaying video game platform, genre, and developer over time
 
 accessible at https://andrewdtu.github.io/a4/
